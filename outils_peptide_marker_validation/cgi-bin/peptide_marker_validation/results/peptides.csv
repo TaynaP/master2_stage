@@ -1,0 +1,7 @@
+Sequence,Mass,Nodes,Position,Label,Target_seq,Target_mass
+GYPGNAGPVGAAGAPGPQGPVGPVGK,2228.134,['Bos_taurus'],"[((860, 886), 'Bos_taurus')]",A,"[('GYPGNAGPVGAAGAPGPQGPVGPVGK', 'Bos_taurus')]","[(['2228.134'], 'Bos_taurus')]"
+GLPGPPGAPGPQGFQGPPGEPGEPGASGPMGPR,3003.430,[],[],A,[],[]
+GPPGPPGK,705.381,['Bos_taurus'],"[((44, 52), 'Bos_taurus')]",A,"[('GPPGPPGK', 'Bos_taurus')]","[(['705.381'], 'Bos_taurus')]"
+NGDDGEAGKPGRPGER,1610.740,[],[],A,[],[]
+GETGPAGRPGEVGPPGPPGPAGEK,2167.066,[],[],B,[],[]
+GSDGSVGPVGPAGPIGSAGPPGFPGAPGPK,2540.266,"['Bos_taurus', 'Homo_sapiens']","[((146, 176), 'Bos_taurus'), ((154, 184), 'Homo_sapiens')]",B,"[('GSDGSVGPVGPAGPIGSAGPPGFPGAPGPK', 'Bos_taurus'), ('GSDGSVGPVGPAGPIGSAGPPGFPGAPGPK', 'Homo_sapiens')]","[(['2540.266'], 'Bos_taurus'), (['2540.266'], 'Homo_sapiens')]"
