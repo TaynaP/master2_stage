@@ -1,0 +1,1 @@
+(((((Macropus_sp.)unclassified_Macropus)Macropus)Macropodidae,((Vombatus_ursinus)Vombatus)Vombatidae,((Phascolarctos_cinereus)Phascolarctos)Phascolarctidae)Diprotodontia,(((Sarcophilus_harrisii)Sarcophilus)Dasyuridae)Dasyuromorphia)Metatheria;

@@ -1,0 +1,299 @@
+Peptide Sequence,Mass,Nodes
+QMSYGYDEK,['1119.5'],['Metatheria']
+GPPGPQGAR,['835.4'],['Metatheria']
+GLPGTAGLPGMK,['1097.6'],['Metatheria']
+GHR,['368.2'],['Metatheria']
+GFSGLDGAK,['850.4'],['Metatheria']
+GDSGPAGPK,['784.4'],['Metatheria']
+GEPGSPGENGAPGQMGPR,['1693.7'],['Metatheria']
+GLPGER,['627.3'],['Metatheria']
+GRPGPPGPAGAR,['1088.6'],['Metatheria']
+GNDGATGAAGPPGPTGPAGPPGFPGAVGAK,['2499.2'],['Metatheria']
+GEAGPQGAR,['841.4'],['Diprotodontia']
+GSEGPQGVR,['885.4'],['Metatheria']
+GEPGPPGPAGAAGPSGNPGADGQPGAK,['2267.1'],['Macropus_sp.']
+GANGAPGIAGAPGFPGAR,['1536.8'],['Metatheria']
+GPSGPQGPSGAPGPK,['1289.6'],['Metatheria']
+GNSGEPGAPGNK,['1083.5'],['Diprotodontia']
+GDAGAK,['517.2'],['Metatheria']
+GEPGPVGVQGPPGPAGEEGK,['1814.9'],['Metatheria']
+R,['174.1'],['Metatheria']
+GSR,['318.2'],['Metatheria']
+GEPGPTGLPGPAGER,['1390.7'],['Diprotodontia']
+GGPGSR,['529.3'],['Metatheria']
+GFPGADGVAGPK,['1071.5'],['Metatheria']
+GAPGER,['585.3'],['Metatheria']
+GAPGPAGPK,['750.4'],['Metatheria']
+GSPGESGRPGEAGLPGAK,['1622.8'],['Metatheria']
+GLTGSPGSPGPDGK,['1225.6'],['Metatheria']
+TGPPGPAGQDGRPGPPGPPGAR,['1992.0'],['Metatheria']
+GQAGVMGFPGPK,['1144.6'],['Metatheria']
+GAAGEPGK,['685.3'],['Metatheria']
+AGER,['431.2'],['Metatheria']
+GVPGPPGAVGAAGK,['1133.6'],['Diprotodontia']
+DGEAGAQGPPGPAGPAGER,['1689.8'],['Diprotodontia']
+GEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGAR,['3973.9'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GER,['360.2'],['Metatheria']
+GFPGER,['661.3'],['Metatheria']
+GVQGPPGPQGPR,['1145.6'],['Metatheria']
+GANGAPGNDGAK,['1027.5'],['Metatheria']
+GDAGAPGAPGSQGPPGLQGMPGER,['2160.0'],['Macropus_sp.']
+GAAGLPGAK,['740.4'],['Metatheria']
+GDR,['346.2'],['Metatheria']
+GDAGPK,['543.3'],['Metatheria']
+GADGAPGK,['671.3'],['Metatheria']
+DGVR,['445.2'],['Metatheria']
+GLTGPIGPPGPAGPSGDK,['1573.8'],['Metatheria']
+GESGPSGPVGPTGAR,['1324.6'],"['Macropodidae', 'Vombatidae']"
+GEPGPPGPAGFAGPPGADGQPGAK,['2085.0'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEPGDAGAK,['800.4'],['Metatheria']
+GDAGPPGPAGPTGAPGPAGNVGAPGPK,['2220.1'],['Metatheria']
+GAR,['302.2'],['Metatheria']
+GSAGPPGATGFPGAAGR,['1426.7'],['Metatheria']
+VGPPGPSGNTGPPGPPGPAGK,['1793.9'],['Diprotodontia']
+EGGK,['389.2'],['Metatheria']
+GPR,['328.2'],['Metatheria']
+GETGPVGRPGEVGPPGPPGPSGEK,['2211.1'],['Macropus_sp.']
+GPPGPAGPPGLAGPPGESGR,['1723.9'],['Metatheria']
+EGAPGAEGSPGR,['1083.5'],"['Macropodidae', 'Phascolarctidae']"
+DGAPGAK,['614.3'],['Macropus_sp.']
+GETGPAGPPGAPGAPGAPGPVGPAGK,['2120.1'],"['Macropodidae', 'Dasyuromorphia']"
+AGDR,['417.2'],['Metatheria']
+GDK,['318.2'],['Metatheria']
+GETGEQGDR,['947.4'],['Metatheria']
+GIK,['316.2'],"['Macropodidae', 'Vombatidae']"
+GFSGLQGPPGPPGSPGEQGPSGASGPAGPR,['2656.3'],['Metatheria']
+AHDSGR,['641.3'],['Metatheria']
+YYR,['500.2'],['Metatheria']
+A,['89.0'],['Metatheria']
+QYDASK,['710.3'],"['Macropodidae', 'Dasyuromorphia']"
+GIDMGPGPMGLMGPR,['1484.7'],['Macropus_sp.']
+GASGPPGAQGFQGPAGEPGEPGQTGPAGAR,['2659.2'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GPPGPPGK,['705.4'],['Metatheria']
+SGEDGHPGKPGRPGER,['1631.8'],['Metatheria']
+GR,['231.1'],['Metatheria']
+IGGAGPAGAR,['825.4'],['Macropus_sp.']
+GSDGSVGPVGPAGPIGSAGPPGFPGAPGPK,['2540.3'],['Macropus_sp.']
+GELGPVGNPGPAGPAGPR,['1598.8'],['Metatheria']
+GELGLPGMTGPVGPAGNPGANGLTGAK,['2389.2'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GAAGLPGVAGAPGLPGPR,['1513.8'],['Metatheria']
+GIPGPAGAAGASGPR,['1234.6'],['Metatheria']
+GLAGEPGPAGAK,['1023.5'],['Macropus_sp.']
+GESGNK,['590.3'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEPGAAGPQGPPGPSGEEGK,['1774.8'],['Macropus_sp.']
+GPNGEPGSTGPTGPPGLR,['1646.8'],['Macropus_sp.']
+GVPGSR,['571.3'],['Metatheria']
+GLPGADGR,['741.4'],['Metatheria']
+AGGMGPPGNR,['912.4'],['Metatheria']
+GSSGPAGAR,['758.4'],['Macropus_sp.']
+GPNGDAGRPGEPGLMGPR,['1733.8'],['Metatheria']
+GLPGSPGNPGPTGK,['1234.6'],['Macropus_sp.']
+EGPAGLPGPDGRPGPTGPAGNR,['2026.0'],['Macropus_sp.']
+GEPGNIGFPGPK,['1168.6'],['Metatheria']
+GPNGEPGK,['754.4'],['Macropus_sp.']
+SGEK,['419.2'],['Metatheria']
+GHAGLAGAR,['808.4'],['Metatheria']
+GAPGPDGNNGAQGPPGPAGVQGGK,['2056.0'],['Diprotodontia']
+GEQGPAGPPGFQGLPGPSGPAGEGGK,['2302.1'],['Metatheria']
+VGER,['459.2'],['Metatheria']
+GLPGEFGLPGPAGPR,['1420.7'],"['Macropodidae', 'Dasyuromorphia']"
+GAAGVPGGK,['712.4'],['Metatheria']
+GEK,['332.2'],['Metatheria']
+GETGLR,['631.3'],['Macropus_sp.']
+GDFGNPGR,['818.4'],['Diprotodontia']
+DGAR,['417.2'],['Metatheria']
+GAPGAMGAPGPAGATGER,['1523.7'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEAGPAGPVGPTGAR,['1292.6'],"['Macropodidae', 'Vombatidae']"
+GAPGDR,['571.3'],['Metatheria']
+GEAGPAGPNGFAGPPGAAGQAGAK,['2006.0'],['Metatheria']
+GTK,['304.2'],['Metatheria']
+GPK,['300.2'],['Metatheria']
+GENGVVGPTGPVGAAGPAGPNGPPGPVGGR,['2548.3'],['Macropus_sp.']
+GDGGPPGATGFPGAAGR,['1440.7'],['Diprotodontia']
+TGAPGPAGITGPPGPPGASGK,['1742.9'],['Macropus_sp.']
+EGPR,['457.2'],['Metatheria']
+GDQGPLGR,['798.4'],['Metatheria']
+AGETGAVGPPGFAGEK,['1443.7'],['Metatheria']
+GPPGEAGATGPPGSSGPQGLLGAPGILGLPGSR,['2878.5'],['Macropus_sp.']
+GLPGVSGALGEPGPLGIAGPPGAR,['2096.1'],"['Macropodidae', 'Phascolarctidae']"
+GPPGAVGNPGVNGAPGEAGR,['1729.8'],['Diprotodontia']
+DGNPGNDGPPGR,['1151.5'],['Metatheria']
+DGLAGHK,['696.4'],['Metatheria']
+GYPGNAGAVGNAGAPGPHGTVGPAGKPGNR,['2654.3'],['Macropus_sp.']
+GEPGPVGSVGPAGPFGAR,['1607.8'],['Macropus_sp.']
+GPSGPQGPR,['851.4'],"['Macropodidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEVGDK,['603.3'],"['Macropodidae', 'Dasyuromorphia']"
+GLNGLK,['600.4'],['Macropus_sp.']
+GHNGFQGLPGLAGQHGDQGAPGSIGPAGPR,['2806.4'],['Macropus_sp.']
+GPAGPSGPAGK,['894.5'],"['Macropodidae', 'Phascolarctidae']"
+DGRPGQAGAVGPAGIR,['1477.8'],['Macropus_sp.']
+GSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYDGDFYR,['3618.6'],['Macropus_sp.']
+SAGGISVPGPMGPSGPR,['1522.8'],['Phascolarctos_cinereus']
+GLPGPPGSPGPQGFQGPPGEPGEPGASGPMGPR,['3019.4'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GPAGPPGK,['679.4'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+NGDDGEAGKPGRPGER,['1610.7'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEPGPPGPAGAAGPAGNPGADGQPGAK,['2251.1'],"['Vombatidae', 'Phascolarctidae']"
+GDAGAPGAPGGQGPPGLQGMPGER,['2130.0'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GESGPSGPAGPTGAR,['1296.6'],"['Phascolarctidae', 'Dasyuromorphia']"
+GETGPIGRPGEVGPPGPPGPSGEK,['2225.1'],"['Phascolarctidae', 'Dasyuromorphia']"
+GSPGADGPAGAPGTPGPQGIAGQR,['2072.0'],"['Phascolarctidae', 'Dasyuromorphia']"
+GVVGLPGQR,['881.5'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GFPGLPGPSGEPGK,['1295.7'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+QGPSGVSGER,['972.5'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+DGAPGPK,['640.3'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GESGPAGPPGAPGAPGAPGPVGPAGK,['2106.0'],['Phascolarctos_cinereus']
+GETGPSGPAGPVGPTGAR,['1563.8'],"['Vombatidae', 'Phascolarctidae']"
+GPAGPQGPR,['835.4'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GMK,['334.2'],['Metatheria']
+GPPGSAGAAGK,['868.4'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+DGLNGLPGPIGPPGPR,['1512.8'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+TGDAGPAGPPGPPGPPGPPGPPSGGFDFSFLPQPPQEK,['3604.7'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+QYDPSK,['736.3'],['Phascolarctos_cinereus']
+GLDMGPGPMGLMGPR,['1484.7'],"['Phascolarctidae', 'Dasyuromorphia']"
+GPPGASGPPGAQGFQGPAGEPGEPGQTGPAGAR,['2910.4'],"['Phascolarctidae', 'Dasyuromorphia']"
+GIVGPQGAR,['853.5'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GFPGTPGLPGFK,['1173.6'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GIR,['344.2'],['Metatheria']
+GHNGLDGLK,['909.5'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GQAGAPGVK,['783.4'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEPGAPGENGTPGQAGAR,['1621.7'],['Metatheria']
+IGGAGPTGAR,['855.5'],['Phascolarctos_cinereus']
+GSDGSVGPVGPAGPLGSAGPPGFPGAPGPK,['2540.3'],['Phascolarctos_cinereus']
+GLAGEPGPAGSK,['1039.5'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEPGSAGPQGPPGPHGEEGK,['1840.8'],['Phascolarctos_cinereus']
+GPNGEPGSTGPPGPPGLR,['1642.8'],['Phascolarctos_cinereus']
+GPSGPAGVR,['796.4'],"['Vombatidae', 'Phascolarctidae']"
+GLPGSPGNAGPTGK,['1208.6'],"['Vombatidae', 'Phascolarctidae']"
+EGPAGLPGADGRPGPTGPAGNR,['2000.0'],"['Vombatidae', 'Phascolarctidae']"
+GPNGDPGK,['740.3'],"['Phascolarctidae', 'Dasyuromorphia']"
+SGDK,['405.2'],['Metatheria']
+GVAGEFGLPGPAGPR,['1380.7'],['Phascolarctos_cinereus']
+GPPGESGAVGPTGSIGSR,['1581.8'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GASGPPGPDGNK,['1052.5'],"['Vombatidae', 'Phascolarctidae']"
+GEPGVVGAPGSAGPAGSGGVPGER,['2018.0'],"['Macropodidae', 'Phascolarctidae']"
+GETGPR,['615.3'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GEAGPAGPAGPTGAR,['1264.6'],['Phascolarctos_cinereus']
+GENGAVGPTGPVGAAGPSGPSGPPGPVGGR,['2509.2'],['Phascolarctos_cinereus']
+TGAPGPAGITGPPGPPGAAGK,['1726.9'],['Phascolarctos_cinereus']
+GPPGESGATGPPGSSGPQGLLGAPGILGLPGSR,['2894.5'],"['Vombatidae', 'Phascolarctidae']"
+GYPGNPGAVGNAGAPGPHGAVGPAGKPGNR,['2650.3'],['Phascolarctos_cinereus']
+GEPGPAGSVGPVGPFGAR,['1607.8'],"['Vombatidae', 'Phascolarctidae']"
+GEPGDK,['601.3'],"['Vombatidae', 'Phascolarctidae']"
+GLNGFK,['634.3'],"['Vombatidae', 'Phascolarctidae']"
+GHNGFQGLPGISGQHGDQGAPGSVGPAGPR,['2808.3'],"['Vombatidae', 'Phascolarctidae']"
+DGRPGHAGAVGPAGLR,['1486.8'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYEGDFYR,['3632.6'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+MFSFVDPR,['997.5'],['Sarcophilus_harrisii']
+LLLLLAVTAVLTHGQDEEDK,['2177.2'],['Sarcophilus_harrisii']
+GTCVQNGLK,['918.5'],['Sarcophilus_harrisii']
+YHNGAVWK,['973.5'],['Sarcophilus_harrisii']
+PETCQICVCDNGSILCDEIICEDVSNCPNVEYK,['3647.5'],['Sarcophilus_harrisii']
+DDECCPTCLGADAGFCSPLPLCCR,['2488.0'],['Sarcophilus_harrisii']
+SHPLTFSLFLPIVSPSSPGETGVEGPK,['2779.4'],['Sarcophilus_harrisii']
+GDTGPR,['601.3'],['Sarcophilus_harrisii']
+GLPGPPGR,['749.4'],['Sarcophilus_harrisii']
+DGIPGQPGLPGPPGPPGPPGLGGNFAPQMSYGYDEK,['3517.7'],['Sarcophilus_harrisii']
+SGGGMSVPGPMGPSGPR,['1526.7'],['Sarcophilus_harrisii']
+GEAGPQGSR,['857.4'],['Sarcophilus_harrisii']
+GEPGPPGPAGSPGPSGNPGADGQPGAK,['2309.1'],['Sarcophilus_harrisii']
+GNSGEPGTPGNK,['1113.5'],['Sarcophilus_harrisii']
+GDPGAK,['543.3'],['Sarcophilus_harrisii']
+GEPGPAGLPGPAGER,['1360.7'],['Sarcophilus_harrisii']
+GVPGPPGAVGPAGK,['1159.6'],['Sarcophilus_harrisii']
+DGEAGAQGAPGPAGPAGER,['1663.8'],['Sarcophilus_harrisii']
+VGPPGPSGNAGPPGPPGPAGK,['1763.9'],['Sarcophilus_harrisii']
+EGSPGAEGSPGR,['1099.5'],"['Vombatidae', 'Dasyuromorphia']"
+GETGPSGPAGPAGPTGAR,['1535.7'],['Sarcophilus_harrisii']
+ADDANVR,['759.4'],['Sarcophilus_harrisii']
+DR,['289.1'],['Metatheria']
+DLEVDTTLK,['1032.5'],['Sarcophilus_harrisii']
+SLTQQIENIR,['1200.6'],['Sarcophilus_harrisii']
+SPEGTR,['645.3'],['Sarcophilus_harrisii']
+K,['146.1'],['Metatheria']
+NPAR,['456.2'],['Sarcophilus_harrisii']
+TCR,['378.2'],['Sarcophilus_harrisii']
+DLR,['402.2'],['Sarcophilus_harrisii']
+MCHSDWK,['905.4'],['Sarcophilus_harrisii']
+SGEYWIDPNQGCNLDAIK,['2021.9'],['Sarcophilus_harrisii']
+VFCNMETGETCVYPTQPSVAQK,['2431.1'],['Sarcophilus_harrisii']
+NWYINK,['836.4'],['Sarcophilus_harrisii']
+NPK,['357.2'],['Sarcophilus_harrisii']
+EK,['275.1'],['Metatheria']
+HVWFGESMTDGFQFEYGGEGSDPADVAIQMTFLR,['3823.7'],['Sarcophilus_harrisii']
+LMSTEASQNITYHCK,['1724.8'],['Sarcophilus_harrisii']
+NSVAYMDQQTGNLK,['1567.7'],['Sarcophilus_harrisii']
+ALLLQGSNEIEIR,['1454.8'],['Sarcophilus_harrisii']
+AEGNSR,['632.3'],['Sarcophilus_harrisii']
+FTYGVIEDGCTSHTGNWGK,['2070.9'],['Sarcophilus_harrisii']
+TVIEYK,['751.4'],['Sarcophilus_harrisii']
+TTK,['348.2'],['Sarcophilus_harrisii']
+TSR,['362.2'],['Sarcophilus_harrisii']
+LPIIDVAPMDVGAPNQEFGFDISPVCFL,['3003.5'],['Sarcophilus_harrisii']
+SLLK,['459.3'],['Sarcophilus_harrisii']
+GPQGDR,['628.3'],['Sarcophilus_harrisii']
+GQR,['359.2'],"['Vombatidae', 'Phascolarctidae', 'Dasyuromorphia']"
+GPPGPPGR,['733.4'],['Sarcophilus_harrisii']
+DGEDGPPGPPGPPGPPGLGGNFAAQYDASK,['2818.3'],['Sarcophilus_harrisii']
+IGGPGPAGAR,['851.5'],['Sarcophilus_harrisii']
+GSDGSVGPVGPAVPLAR,['1534.8'],['Sarcophilus_harrisii']
+GPPGFPGAPGPK,['1077.6'],['Metatheria']
+GEPGSAGPQGPPGPNGEEGK,['1817.8'],['Sarcophilus_harrisii']
+GPNGEPGSTGPMGPPGLR,['1676.8'],['Sarcophilus_harrisii']
+GPSGPAGAR,['768.4'],['Sarcophilus_harrisii']
+GLPGSPGNVGPTGK,['1236.6'],['Sarcophilus_harrisii']
+EGPAGLPGIDGRPGPTGPAGNR,['2042.0'],['Sarcophilus_harrisii']
+AGEK,['403.2'],['Metatheria']
+GAPGPDGNNGAQGPPGPTGVQGGK,['2086.0'],['Sarcophilus_harrisii']
+GPSGPPGPDGNK,['1078.5'],['Sarcophilus_harrisii']
+GEPGVVGAPGNAGPAGSGGVPGER,['2045.0'],['Sarcophilus_harrisii']
+GEFGNPGR,['832.4'],['Sarcophilus_harrisii']
+GEAGPAGPVGPTGNR,['1335.7'],['Sarcophilus_harrisii']
+GENGIVGPTGPVGAAGPAGPNGPPGPVGGR,['2562.3'],['Sarcophilus_harrisii']
+GDGGPPGRPGLGGYTPVPGRPALEGMTGFPGAAGK,['3247.6'],['Sarcophilus_harrisii']
+GPPGEAGASGPPGSSGPQGLLGAPGILGLPGSR,['2864.5'],['Sarcophilus_harrisii']
+GLPGVSGSLGEPGPLGISGPPGAR,['2128.1'],['Sarcophilus_harrisii']
+GPPGAVGSPGVNGAPGEAGR,['1702.8'],['Sarcophilus_harrisii']
+GYPGNPGAVGNAGAPGPHGTVGPAGKPGNR,['2680.3'],"['Vombatidae', 'Dasyuromorphia']"
+GEPGPVGSVGPVGPFGAR,['1635.8'],['Sarcophilus_harrisii']
+GMNGFK,['652.3'],['Sarcophilus_harrisii']
+GHNGFQGLPGISGQHGDQGAPGSTGPAGPR,['2810.3'],['Sarcophilus_harrisii']
+GPAGPSGPPGK,['920.5'],"['Vombatidae', 'Dasyuromorphia']"
+ADQPR,['585.3'],['Sarcophilus_harrisii']
+TQASLRPK,['899.5'],['Sarcophilus_harrisii']
+DYEVDATLK,['1052.5'],['Sarcophilus_harrisii']
+SLNNQIETILSPEGSK,['1728.9'],['Sarcophilus_harrisii']
+LSHPDWNSVFAPLGAHWQLPLVGCAWTWGIPR,['3610.8'],['Sarcophilus_harrisii']
+WCPHSPGAPK,['1078.5'],['Sarcophilus_harrisii']
+SQTLPPGLDQGHPASLTSGDPR,['2230.1'],['Sarcophilus_harrisii']
+CSK,['336.1'],['Sarcophilus_harrisii']
+AFR,['392.2'],['Sarcophilus_harrisii']
+ALTQK,['559.3'],['Sarcophilus_harrisii']
+KPPGSQWALSPQVPSSR,['1821.0'],['Sarcophilus_harrisii']
+GAASPVSRPR,['996.5'],['Sarcophilus_harrisii']
+ALFGATAVLGEPQAPFPTPGLSLGLGQFPGTGPSRPSCADFLLLFSTQR,['4986.6'],['Sarcophilus_harrisii']
+NNEWGK,['746.3'],['Sarcophilus_harrisii']
+TNKPSR,['701.4'],['Sarcophilus_harrisii']
+LPFLDIAPLDIGGTDQELR,['2082.1'],['Sarcophilus_harrisii']
+LHIGPVCFK,['1012.6'],['Sarcophilus_harrisii']
+SAGISVPGPMGPSGPR,['1465.7'],['Vombatus_ursinus']
+GEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGSR,['3989.9'],['Vombatus_ursinus']
+GETGPPGPAGFAGPPGADGQPGAK,['2089.0'],['Vombatus_ursinus']
+GETGPIGRPGEVGPAGPPGPSGEK,['2199.1'],['Vombatus_ursinus']
+GSPGADGPAGAPGTPGPQGISGQR,['2088.0'],['Vombatus_ursinus']
+GEVGPAGPPGAPGAPGAPGPVGPAGK,['2118.1'],['Vombatus_ursinus']
+GPPGPPGPPGPPGLGGGLMGPR,['1918.0'],['Vombatus_ursinus']
+GPPGASGPPGAQGFQGPAGEPGEPGQTGPAGSR,['2926.4'],['Vombatus_ursinus']
+IGGAGPSGAR,['841.4'],['Vombatus_ursinus']
+GSDGSVGPVGPAGPVGSAGPPGFPGAPGPK,['2526.3'],['Vombatus_ursinus']
+GELGLPGTTGPVGPVGNPGANGLTGAK,['2387.2'],['Vombatus_ursinus']
+GETGNK,['604.3'],['Vombatus_ursinus']
+GEPGSAGPSGPPGPHGEEGK,['1799.8'],['Vombatus_ursinus']
+GPNGEPGSTGPSGPPGLR,['1632.8'],['Vombatus_ursinus']
+GPTGDPGK,['727.4'],['Vombatus_ursinus']
+GVPGEFGLPGPAGPR,['1406.7'],['Vombatus_ursinus']
+GEPGVVGAPGTAGPAGSGGVPGER,['2032.0'],['Vombatus_ursinus']
+GAPGAVGAPGPAGATGER,['1491.7'],['Vombatus_ursinus']
+GENGAVGPTGPVGAAGPSGPNGPPGPVGGR,['2536.2'],['Vombatus_ursinus']
+TGSPGPAGITGPPGPPGAAGK,['1742.9'],['Vombatus_ursinus']
+GLPGVSGSLGEPGPLGIAGPAGAR,['2086.1'],['Vombatus_ursinus']
+GPGGPQGPR,['821.4'],['Vombatus_ursinus']

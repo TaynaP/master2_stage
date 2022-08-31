@@ -1,0 +1,334 @@
+<phyloxml xmlns:ns0="None" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Metatheria</name>
+      <clade>
+        <name>Diprotodontia</name>
+        <clade>
+          <name>Macropodidae</name>
+          <clade>
+            <name>Macropus</name>
+            <clade>
+              <name>unclassified_Macropus</name>
+              <clade>
+                <name>Macropus_sp.</name>
+                <sequence>
+                  <mol_seq>QMSYGYDEKSGGISVPGPMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDSGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGPPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGARGSEGPQGVRGEPGPPGPAGAAGPSGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGPQGPSGAPGPKGNSGEPGAPGNKGDAGAKGEPGPVGVQGPPGPAGEEGKRGSRGEPGPTGLPGPAGERGGPGSRGFPGADGVAGPKGAPGERGAPGPAGPKGSPGESGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGAAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGARGERGFPGERGVQGPPGPQGPRGANGAPGNDGAKGDAGAPGAPGSQGPPGLQGMPGERGAAGLPGAKGDRGDAGPKGADGAPGKDGVRGLTGPIGPPGPAGPSGDKGESGPSGPVGPTGARGAPGERGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPTGAPGPAGNVGAPGPKGARGSAGPPGATGFPGAAGRVGPPGPSGNTGPPGPPGPAGKEGGKGPRGETGPVGRPGEVGPPGPPGPSGEKGSPGADGPAPVPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSGVSGERGPPGPAGPPGLAGPPGESGREGAPGAEGSPGRDGAPGAKGDRGETGPAGPPGAPGAPGAPGPVGPAGKAGDRGETXXXXXXXXXXXXXXXXXXGPQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGPPGPPGPPGPPGPPSGGFDFSFLPQPPQEKAHDSGRYYRA</mol_seq>
+                </sequence>
+                <sequence>
+                  <mol_seq>QYDASKGIDMGPGPMGLMGPRGPRGASGPPGAQGFQGPAGEPGEPGQTGPAGARGPPGPPGKSGEDGHPGKPGRPGERGIVGPQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGEPGAPGENGTPGQAGARGLPGERGRIGGAGPAGARGSDGSVGPVGPAGPIGSAGPPGFPGAPGPKGELGPVGNPGPAGPAGPRGELGLPGMTGPVGPAGNPGANGLTGAKGAAGLPGVAGAPGLPGPRGIPGPAGAAGASGPRGLAGEPGPAGAKGESGNKGEPGAAGPQGPPGPSGEEGKRGPNGEPGSTGPTGPPGLRGVPGSRGLPGADGRAGGMGPPGNRGSSGPAGARGPNGDAGRPGEPGLMGPRGLPGSPGNPGPTGKEGPAGLPGPDGRPGPTGPAGNRGEPGNIGFPGPKGPNGEPGKSGEKGHAGLAGARGAPGPDGNNGAQGPPGPAGVQGGKGEQGPAGPPGFQGLPGPSGPAGEGGKVGERGLPGEFGLPGPAGPRXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGEPGVVGAPGSAGPAGSGGVPGERGAAGVPGGKGEKGETGLRGDFGNPGRDGARGAPGAMGAPGPAGATGERGEAGPAGPVGPTGARGAPGDRGEAGPAGPNGFAGPPGAAGQAGAKGERGTKGPKGENGVVGPTGPVGAAGPAGPNGPPGPVGGRGDGGPPGATGFPGAAGRTGAPGPAGITGPPGPPGASGKEGPRGPRGDQGPLGRAGETGAVGPPGFAGEKGPPGEAGATGPPGSSGPQGLLGAPGILGLPGSRGERGLPGVSGALGEPGPLGIAGPPGARGPPGAVGNPGVNGAPGEAGRDGNPGNDGPPGRDGLAGHKGERGYPGNAGAVGNAGAPGPHGTVGPAGKPGNRGEPGPVGSVGPAGPFGARGPSGPQGPRGDKGEVGDKGPRGLNGLKGHNGFQGLPGLAGQHGDQGAPGSIGPAGPRGPAGPSGPAGKDGRPGQAGAVGPAGIRGSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYDGDFYRA</mol_seq>
+                </sequence>
+                <ns0:peak>mass : 825.4; intensity : 86.0 </ns0:peak>
+                <ns0:peak>mass : 1023.5; intensity : 173.0 </ns0:peak>
+                <ns0:peak>mass : 1234.6; intensity : 290.0 </ns0:peak>
+                <ns0:peak>mass : 1477.8; intensity : 426.0 </ns0:peak>
+                <ns0:peak>mass : 1646.8; intensity : 296.0 </ns0:peak>
+                <ns0:peak>mass : 1774.8; intensity : 447.0 </ns0:peak>
+                <ns0:peak>mass : 2026.0; intensity : 284.0 </ns0:peak>
+                <ns0:peak>mass : 2160.0; intensity : 501.0 </ns0:peak>
+                <ns0:peak>mass : 2211.1; intensity : 364.0 </ns0:peak>
+                <ns0:peak>mass : 2267.1; intensity : 251.0 </ns0:peak>
+                <ns0:peak>mass : 2548.3; intensity : 218.0 </ns0:peak>
+                <ns0:peak>mass : 2654.3; intensity : 410.0 </ns0:peak>
+                <ns0:peak>mass : 2806.4; intensity : 392.0 </ns0:peak>
+                <ns0:peak>mass : 2878.5; intensity : 302.0 </ns0:peak>
+                <ns0:peak>mass : 3618.6; intensity : 290.0 </ns0:peak>
+              </clade>
+            </clade>
+          </clade>
+          <ns0:peak>mass : 851.4; intensity : 397.0 </ns0:peak>
+          <ns0:peak>mass : 894.5; intensity : 282.0 </ns0:peak>
+          <ns0:peak>mass : 1083.5; intensity : 345.0 </ns0:peak>
+          <ns0:peak>mass : 1292.6; intensity : 367.0 </ns0:peak>
+          <ns0:peak>mass : 1324.6; intensity : 455.0 </ns0:peak>
+          <ns0:peak>mass : 1420.7; intensity : 213.0 </ns0:peak>
+          <ns0:peak>mass : 1523.7; intensity : 415.0 </ns0:peak>
+          <ns0:peak>mass : 2018.0; intensity : 178.0 </ns0:peak>
+          <ns0:peak>mass : 2085.0; intensity : 226.0 </ns0:peak>
+          <ns0:peak>mass : 2096.1; intensity : 328.0 </ns0:peak>
+          <ns0:peak>mass : 2120.1; intensity : 568.0 </ns0:peak>
+          <ns0:peak>mass : 2389.2; intensity : 390.0 </ns0:peak>
+          <ns0:peak>mass : 2659.2; intensity : 367.0 </ns0:peak>
+        </clade>
+        <clade>
+          <name>Vombatidae</name>
+          <clade>
+            <name>Vombatus</name>
+            <clade>
+              <name>Vombatus_ursinus</name>
+              <sequence>
+                <mol_seq>QMSYGYDEKSAGISVPGPMGPSGPRGLPGPPGSPGPQGFQGPPGEPGEPGASGPMGPRGPAGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDSGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGPPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGARGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGPQGPSGAPGPKGNSGEPGAPGNKGDAGAKGEPGPVGVQGPPGPAGEEGKRGSRGEPGPTGLPGPAGERGGPGSRGFPGADGVAGPKGAPGERGAPGPAGPKGSPGESGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGAAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGSRGERGFPGERGVQGPPGPQGPRGANGAPGNDGAKGDAGAPGAPGGQGPPGLQGMPGERGAAGLPGAKGDRGDAGPKGADGAPGKDGVRGLTGPIGPPGPAGPSGDKGESGPSGPVGPTGARGAPGERGETGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPTGAPGPAGNVGAPGPKGARGSAGPPGATGFPGAAGRVGPPGPSGNTGPPGPPGPAGKEGGKGPRGETGPIGRPGEVGPAGPPGPSGEKGSPGADGPAGAPGTPGPQGISGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPSGVSGERGPPGPAGPPGLAGPPGESGREGSPGAEGSPGRDGAPGPKGDRGEVGPAGPPGAPGAPGAPGPVGPAGKAGDRGETGPSGPAGPVGPTGARGPAGPQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAAGKDGLNGLPGPIGPPGPRGRTGDAGPAGPPGPPGPPGPPGPPSGGFDFSFLPQPPQEKAHDSGRYYRA</mol_seq>
+              </sequence>
+              <sequence>
+                <mol_seq>GPPGPPGPPGPPGLGGGLMGPRGPPGASGPPGAQGFQGPAGEPGEPGQTGPAGSRGPPGPPGKSGEDGHPGKPGRPGERGIVGPQGARGFPGTPGLPGFKGIRGHNGLDGLKGQAGAPGVKGEPGAPGENGTPGQAGARGLPGERGRIGGAGPSGARGSDGSVGPVGPAGPVGSAGPPGFPGAPGPKGELGPVGNPGPAGPAGPRGELGLPGTTGPVGPVGNPGANGLTGAKGAAGLPGVAGAPGLPGPRGIPGPAGAAGASGPRGLAGEPGPAGSKGETGNKGEPGSAGPSGPPGPHGEEGKRGPNGEPGSTGPSGPPGLRGVPGSRGLPGADGRAGGMGPPGNRGPSGPAGVRGPNGDAGRPGEPGLMGPRGLPGSPGNAGPTGKEGPAGLPGADGRPGPTGPAGNRGEPGNIGFPGPKGPTGDPGKSGDKGHAGLAGARGAPGPDGNNGAQGPPGPAGVQGGKGEQGPAGPPGFQGLPGPSGPAGEGGKVGERGVPGEFGLPGPAGPRGERGPPGESGAVGPTGSIGSRGASGPPGPDGNKGEPGVVGAPGTAGPAGSGGVPGERGAAGVPGGKGEKGETGPRGDFGNPGRDGARGAPGAVGAPGPAGATGERGEAGPAGPVGPTGARGAPGDRGEAGPAGPNGFAGPPGAAGQAGAKGERGTKGPKGENGAVGPTGPVGAAGPSGPNGPPGPVGGRGDGGPPGATGFPGAAGRTGSPGPAGITGPPGPPGAAGKEGPRGPRGDQGPLGRAGETGAVGPPGFAGEKGPPGESGATGPPGSSGPQGLLGAPGILGLPGSRGERGLPGVSGSLGEPGPLGIAGPAGARGPPGAVGNPGVNGAPGEAGRDGNPGNDGPPGRDGLAGHKGERGYPGNPGAVGNAGAPGPHGTVGPAGKPGNRGEPGPAGSVGPVGPFGARGPGGPQGPRGDKGEPGDKGPRGLNGFKGHNGFQGLPGISGQHGDQGAPGSVGPAGPRGPAGPSGPPGKDGRPGHAGAVGPAGLRGSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYEGDFYRA</mol_seq>
+              </sequence>
+              <ns0:peak>mass : 821.4; intensity : 295.0 </ns0:peak>
+              <ns0:peak>mass : 841.4; intensity : 248.0 </ns0:peak>
+              <ns0:peak>mass : 1406.7; intensity : 475.0 </ns0:peak>
+              <ns0:peak>mass : 1465.7; intensity : 740.0 </ns0:peak>
+              <ns0:peak>mass : 1491.7; intensity : 690.0 </ns0:peak>
+              <ns0:peak>mass : 1632.8; intensity : 415.0 </ns0:peak>
+              <ns0:peak>mass : 1742.9; intensity : 240.0 </ns0:peak>
+              <ns0:peak>mass : 1799.8; intensity : 463.0 </ns0:peak>
+              <ns0:peak>mass : 1918.0; intensity : 552.0 </ns0:peak>
+              <ns0:peak>mass : 2032.0; intensity : 336.0 </ns0:peak>
+              <ns0:peak>mass : 2086.1; intensity : 472.0 </ns0:peak>
+              <ns0:peak>mass : 2088.0; intensity : 476.0 </ns0:peak>
+              <ns0:peak>mass : 2089.0; intensity : 462.0 </ns0:peak>
+              <ns0:peak>mass : 2118.1; intensity : 423.0 </ns0:peak>
+              <ns0:peak>mass : 2199.1; intensity : 498.0 </ns0:peak>
+              <ns0:peak>mass : 2387.2; intensity : 382.0 </ns0:peak>
+              <ns0:peak>mass : 2526.3; intensity : 335.0 </ns0:peak>
+              <ns0:peak>mass : 2536.2; intensity : 396.0 </ns0:peak>
+              <ns0:peak>mass : 2926.4; intensity : 340.0 </ns0:peak>
+            </clade>
+          </clade>
+          <ns0:peak>mass : 835.4; intensity : 232.0 </ns0:peak>
+          <ns0:peak>mass : 853.5; intensity : 641.0 </ns0:peak>
+          <ns0:peak>mass : 868.4; intensity : 293.0 </ns0:peak>
+          <ns0:peak>mass : 881.5; intensity : 222.0 </ns0:peak>
+          <ns0:peak>mass : 909.5; intensity : 215.0 </ns0:peak>
+          <ns0:peak>mass : 920.5; intensity : 300.0 </ns0:peak>
+          <ns0:peak>mass : 972.5; intensity : 262.0 </ns0:peak>
+          <ns0:peak>mass : 1039.5; intensity : 274.0 </ns0:peak>
+          <ns0:peak>mass : 1099.5; intensity : 319.0 </ns0:peak>
+          <ns0:peak>mass : 1173.6; intensity : 260.0 </ns0:peak>
+          <ns0:peak>mass : 1208.6; intensity : 128.0 </ns0:peak>
+          <ns0:peak>mass : 1292.6; intensity : 367.0 </ns0:peak>
+          <ns0:peak>mass : 1295.7; intensity : 201.0 </ns0:peak>
+          <ns0:peak>mass : 1324.6; intensity : 455.0 </ns0:peak>
+          <ns0:peak>mass : 1486.8; intensity : 376.0 </ns0:peak>
+          <ns0:peak>mass : 1512.8; intensity : 430.0 </ns0:peak>
+          <ns0:peak>mass : 1563.8; intensity : 499.0 </ns0:peak>
+          <ns0:peak>mass : 1581.8; intensity : 466.0 </ns0:peak>
+          <ns0:peak>mass : 1607.8; intensity : 418.0 </ns0:peak>
+          <ns0:peak>mass : 1610.7; intensity : 632.0 </ns0:peak>
+          <ns0:peak>mass : 2000.0; intensity : 236.0 </ns0:peak>
+          <ns0:peak>mass : 2130.0; intensity : 563.0 </ns0:peak>
+          <ns0:peak>mass : 2251.1; intensity : 421.0 </ns0:peak>
+          <ns0:peak>mass : 2680.3; intensity : 529.0 </ns0:peak>
+          <ns0:peak>mass : 2808.3; intensity : 275.0 </ns0:peak>
+          <ns0:peak>mass : 2894.5; intensity : 249.0 </ns0:peak>
+          <ns0:peak>mass : 3019.4; intensity : 433.0 </ns0:peak>
+          <ns0:peak>mass : 3604.7; intensity : 269.0 </ns0:peak>
+          <ns0:peak>mass : 3632.6; intensity : 366.0 </ns0:peak>
+        </clade>
+        <clade>
+          <name>Phascolarctidae</name>
+          <clade>
+            <name>Phascolarctos</name>
+            <clade>
+              <name>Phascolarctos_cinereus</name>
+              <sequence>
+                <mol_seq>QMSYGYDEKSAGGISVPGPMGPSGPRGLPGPPGSPGPQGFQGPPGEPGEPGASGPMGPRGPAGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDSGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGPPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGARGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGPQGPSGAPGPKGNSGEPGAPGNKGDAGAKGEPGPVGVQGPPGPAGEEGKRGSRGEPGPTGLPGPAGERGGPGSRGFPGADGVAGPKGAPGERGAPGPAGPKGSPGESGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGAAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGARGERGFPGERGVQGPPGPQGPRGANGAPGNDGAKGDAGAPGAPGGQGPPGLQGMPGERGAAGLPGAKGDRGDAGPKGADGAPGKDGVRGLTGPIGPPGPAGPSGDKGESGPSGPAGPTGARGAPGERGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPTGAPGPAGNVGAPGPKGARGSAGPPGATGFPGAAGRVGPPGPSGNTGPPGPPGPAGKEGGKGPRGETGPIGRPGEVGPPGPPGPSGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPSGVSGERGPPGPAGPPGLAGPPGESGREGAPGAEGSPGRDGAPGPKGDRGESGPAGPPGAPGAPGAPGPVGPAGKAGDRGETGPSGPAGPVGPTGARGPAGPQGPRGDKGETGEQGDRGMKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAAGKDGLNGLPGPIGPPGPRGRTGDAGPAGPPGPPGPPGPPGPPSGGFDFSFLPQPPQEKAHDSGRYYRA</mol_seq>
+              </sequence>
+              <sequence>
+                <mol_seq>QYDPSKGLDMGPGPMGLMGPRGPPGASGPPGAQGFQGPAGEPGEPGQTGPAGARGPPGPPGKSGEDGHPGKPGRPGERGIVGPQGARGFPGTPGLPGFKGIRGHNGLDGLKGQAGAPGVKGEPGAPGENGTPGQAGARGLPGERGRIGGAGPTGARGSDGSVGPVGPAGPLGSAGPPGFPGAPGPKGELGPVGNPGPAGPAGPRGELGLPGMTGPVGPAGNPGANGLTGAKGAAGLPGVAGAPGLPGPRGIPGPAGAAGASGPRGLAGEPGPAGSKGESGNKGEPGSAGPQGPPGPHGEEGKRGPNGEPGSTGPPGPPGLRGVPGSRGLPGADGRAGGMGPPGNRGPSGPAGVRGPNGDAGRPGEPGLMGPRGLPGSPGNAGPTGKEGPAGLPGADGRPGPTGPAGNRGEPGNIGFPGPKGPNGDPGKSGDKGHAGLAGARGAPGPDGNNGAQGPPGPAGVQGGKGEQGPAGPPGFQGLPGPSGPAGEGGKVGERGVAGEFGLPGPAGPRGERGPPGESGAVGPTGSIGSRGASGPPGPDGNKGEPGVVGAPGSAGPAGSGGVPGERGAAGVPGGKGEKGETGPRGDFGNPGRDGARGAPGAMGAPGPAGATGERGEAGPAGPAGPTGARGAPGDRGEAGPAGPNGFAGPPGAAGQAGAKGERGTKGPKGENGAVGPTGPVGAAGPSGPSGPPGPVGGRGDGGPPGATGFPGAAGRTGAPGPAGITGPPGPPGAAGKEGPRGPRGDQGPLGRAGETGAVGPPGFAGEKGPPGESGATGPPGSSGPQGLLGAPGILGLPGSRGERGLPGVSGALGEPGPLGIAGPPGARGPPGAVGNPGVNGAPGEAGRDGNPGNDGPPGRDGLAGHKGERGYPGNPGAVGNAGAPGPHGAVGPAGKPGNRGEPGPAGSVGPVGPFGARGPSGPQGPRGDKGEPGDKGPRGLNGFKGHNGFQGLPGISGQHGDQGAPGSVGPAGPRGPAGPSGPAGKDGRPGHAGAVGPAGLRGSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYEGDFYRA</mol_seq>
+              </sequence>
+              <ns0:peak>mass : 855.5; intensity : 422.0 </ns0:peak>
+              <ns0:peak>mass : 1264.6; intensity : 275.0 </ns0:peak>
+              <ns0:peak>mass : 1380.7; intensity : 385.0 </ns0:peak>
+              <ns0:peak>mass : 1522.8; intensity : 407.0 </ns0:peak>
+              <ns0:peak>mass : 1642.8; intensity : 631.0 </ns0:peak>
+              <ns0:peak>mass : 1726.9; intensity : 611.0 </ns0:peak>
+              <ns0:peak>mass : 1840.8; intensity : 506.0 </ns0:peak>
+              <ns0:peak>mass : 2106.0; intensity : 352.0 </ns0:peak>
+              <ns0:peak>mass : 2509.2; intensity : 305.0 </ns0:peak>
+              <ns0:peak>mass : 2540.3; intensity : 285.0 </ns0:peak>
+              <ns0:peak>mass : 2650.3; intensity : 322.0 </ns0:peak>
+            </clade>
+          </clade>
+          <ns0:peak>mass : 835.4; intensity : 232.0 </ns0:peak>
+          <ns0:peak>mass : 851.4; intensity : 397.0 </ns0:peak>
+          <ns0:peak>mass : 853.5; intensity : 641.0 </ns0:peak>
+          <ns0:peak>mass : 868.4; intensity : 293.0 </ns0:peak>
+          <ns0:peak>mass : 881.5; intensity : 222.0 </ns0:peak>
+          <ns0:peak>mass : 894.5; intensity : 282.0 </ns0:peak>
+          <ns0:peak>mass : 909.5; intensity : 215.0 </ns0:peak>
+          <ns0:peak>mass : 972.5; intensity : 262.0 </ns0:peak>
+          <ns0:peak>mass : 1039.5; intensity : 274.0 </ns0:peak>
+          <ns0:peak>mass : 1083.5; intensity : 345.0 </ns0:peak>
+          <ns0:peak>mass : 1173.6; intensity : 260.0 </ns0:peak>
+          <ns0:peak>mass : 1208.6; intensity : 128.0 </ns0:peak>
+          <ns0:peak>mass : 1295.7; intensity : 201.0 </ns0:peak>
+          <ns0:peak>mass : 1296.6; intensity : 267.0 </ns0:peak>
+          <ns0:peak>mass : 1484.7; intensity : 441.0 </ns0:peak>
+          <ns0:peak>mass : 1486.8; intensity : 376.0 </ns0:peak>
+          <ns0:peak>mass : 1512.8; intensity : 430.0 </ns0:peak>
+          <ns0:peak>mass : 1523.7; intensity : 415.0 </ns0:peak>
+          <ns0:peak>mass : 1563.8; intensity : 499.0 </ns0:peak>
+          <ns0:peak>mass : 1581.8; intensity : 466.0 </ns0:peak>
+          <ns0:peak>mass : 1607.8; intensity : 418.0 </ns0:peak>
+          <ns0:peak>mass : 1610.7; intensity : 632.0 </ns0:peak>
+          <ns0:peak>mass : 2000.0; intensity : 236.0 </ns0:peak>
+          <ns0:peak>mass : 2018.0; intensity : 178.0 </ns0:peak>
+          <ns0:peak>mass : 2072.0; intensity : 238.0 </ns0:peak>
+          <ns0:peak>mass : 2085.0; intensity : 226.0 </ns0:peak>
+          <ns0:peak>mass : 2096.1; intensity : 328.0 </ns0:peak>
+          <ns0:peak>mass : 2130.0; intensity : 563.0 </ns0:peak>
+          <ns0:peak>mass : 2225.1; intensity : 349.0 </ns0:peak>
+          <ns0:peak>mass : 2251.1; intensity : 421.0 </ns0:peak>
+          <ns0:peak>mass : 2389.2; intensity : 390.0 </ns0:peak>
+          <ns0:peak>mass : 2659.2; intensity : 367.0 </ns0:peak>
+          <ns0:peak>mass : 2808.3; intensity : 275.0 </ns0:peak>
+          <ns0:peak>mass : 2894.5; intensity : 249.0 </ns0:peak>
+          <ns0:peak>mass : 2910.4; intensity : 341.0 </ns0:peak>
+          <ns0:peak>mass : 3019.4; intensity : 433.0 </ns0:peak>
+          <ns0:peak>mass : 3604.7; intensity : 269.0 </ns0:peak>
+          <ns0:peak>mass : 3632.6; intensity : 366.0 </ns0:peak>
+        </clade>
+        <ns0:peak>mass : 818.4; intensity : 260.0 </ns0:peak>
+        <ns0:peak>mass : 1133.6; intensity : 207.0 </ns0:peak>
+        <ns0:peak>mass : 1390.7; intensity : 262.0 </ns0:peak>
+        <ns0:peak>mass : 1440.7; intensity : 401.0 </ns0:peak>
+        <ns0:peak>mass : 1689.8; intensity : 674.0 </ns0:peak>
+        <ns0:peak>mass : 1729.8; intensity : 412.0 </ns0:peak>
+        <ns0:peak>mass : 1793.9; intensity : 800.0 </ns0:peak>
+        <ns0:peak>mass : 2056.0; intensity : 271.0 </ns0:peak>
+      </clade>
+      <clade>
+        <name>Dasyuromorphia</name>
+        <clade>
+          <name>Dasyuridae</name>
+          <clade>
+            <name>Sarcophilus</name>
+            <clade>
+              <name>Sarcophilus_harrisii</name>
+              <sequence>
+                <mol_seq>MFSFVDPRLLLLLAVTAVLTHGQDEEDKGTCVQNGLKYHNGAVWKPETCQICVCDNGSILCDEIICEDVSNCPNVEYKDDECCPTCLGADAGFCSPLPLCCRSHPLTFSLFLPIVSPSSPGETGVEGPKGDTGPRGERGLPGPPGRDGIPGQPGLPGPPGPPGPPGLGGNFAPQMSYGYDEKSGGGMSVPGPMGPSGPRGLPGPPGSPGPQGFQGPPGEPGEPGASGPMGPRGPAGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDSGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGPPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGSRGSEGPQGVRGEPGPPGPAGSPGPSGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGPQGPSGAPGPKGNSGEPGTPGNKGDPGAKGEPGPVGVQGPPGPAGEEGKRGSRGEPGPAGLPGPAGERGGPGSRGFPGADGVAGPKGAPGERGAPGPAGPKGSPGESGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGPAGKDGEAGAQGAPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDAGAPGPSGARGERGFPGERGVQGPPGPQGPRGANGAPGNDGAKGDAGAPGAPGGQGPPGLQGMPGERGAAGLPGAKGDRGDAGPKGADGAPGKDGVRGLTGPIGPPGPAGPSGDKGESGPSGPAGPTGARGAPGERGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPTGAPGPAGNVGAPGPKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGPAGKEGGKGPRGETGPIGRPGEVGPPGPPGPSGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPSGVSGERGPPGPAGPPGLAGPPGESGREGSPGAEGSPGRDGAPGPKGDRGETGPAGPPGAPGAPGAPGPVGPAGKAGDRGETGPSGPAGPAGPTGARGPAGPQGPRGDKGETGEQGDRGMKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAAGKDGLNGLPGPIGPPGPRGRTGDAGPAGPPGPPGPPGPPGPPSGGFDFSFLPQPPQEKAHDSGRYYRADDANVRDRDLEVDTTLKSLTQQIENIRSPEGTRKNPARTCRDLRMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYINKNPKEKKHVWFGESMTDGFQFEYGGEGSDPADVAIQMTFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKKALLLQGSNEIEIRAEGNSRFTYGVIEDGCTSHTGNWGKTVIEYKTTKTSRLPIIDVAPMDVGAPNQEFGFDISPVCFL</mol_seq>
+              </sequence>
+              <sequence>
+                <mol_seq>SLLKGPQGDRGPRGQRGPPGPPGRDGEDGPPGPPGPPGPPGLGGNFAAQYDASKGLDMGPGPMGLMGPRGPPGASGPPGAQGFQGPAGEPGEPGQTGPAGARGPPGPPGKSGEDGHPGKPGRPGERGIVGPQGARGFPGTPGLPGFKGIRGHNGLDGLKGQAGAPGVKGEPGAPGENGTPGQAGARGLPGERGRIGGPGPAGARGSDGSVGPVGPAVPLARRGPPGFPGAPGPKGELGPVGNPGPAGPAGPRGELGLPGMTGPVGPAGNPGANGLTGAKGAAGLPGVAGAPGLPGPRGIPGPAGAAGASGPRGLAGEPGPAGSKGESGNKGEPGSAGPQGPPGPNGEEGKRGPNGEPGSTGPMGPPGLRGVPGSRGLPGADGRAGGMGPPGNRGPSGPAGARGPNGDAGRPGEPGLMGPRGLPGSPGNVGPTGKEGPAGLPGIDGRPGPTGPAGNRGEPGNIGFPGPKGPNGDPGKAGEKGHAGLAGARGAPGPDGNNGAQGPPGPTGVQGGKGEQGPAGPPGFQGLPGPSGPAGEGGKVGERGLPGEFGLPGPAGPRGERGPPGESGAVGPTGSIGSRGPSGPPGPDGNKGEPGVVGAPGNAGPAGSGGVPGERGAAGVPGGKGEKGETGPRGEFGNPGRDGARGAPGAMGAPGPAGATGERGEAGPAGPVGPTGNRGAPGDRGEAGPAGPNGFAGPPGAAGQAGAKGERGTKGPKGENGIVGPTGPVGAAGPAGPNGPPGPVGGRGDGGPPGRPGLGGYTPVPGRPALEGMTGFPGAAGKEGPRGPRGDQGPLGRAGETGAVGPPGFAGEKGPPGEAGASGPPGSSGPQGLLGAPGILGLPGSRGERGLPGVSGSLGEPGPLGISGPPGARGPPGAVGSPGVNGAPGEAGRDGNPGNDGPPGRDGLAGHKGERGYPGNPGAVGNAGAPGPHGTVGPAGKPGNRGEPGPVGSVGPVGPFGARGPSGPQGPRGDKGEVGDKGPRGMNGFKGHNGFQGLPGISGQHGDQGAPGSTGPAGPRGPAGPSGPPGKDGRPGHAGAVGPAGLRGSQGSQGPAGPPGPPGLPGPPGPSGGGYDFGYEGDFYRADQPRTQASLRPKDYEVDATLKSLNNQIETILSPEGSKKNPARTCRDLRLSHPDWNSVFAPLGAHWQLPLVGCAWTWGIPRWCPHSPGAPKSQTLPPGLDQGHPASLTSGDPRCSKAFRALTQKKPPGSQWALSPQVPSSRGAASPVSRPRALFGATAVLGEPQAPFPTPGLSLGLGQFPGTGPSRPSCADFLLLFSTQRKNNEWGKTVIEYKTNKPSRLPFLDIAPLDIGGTDQELRLHIGPVCFK</mol_seq>
+              </sequence>
+              <ns0:peak>mass : 832.4; intensity : 213.0 </ns0:peak>
+              <ns0:peak>mass : 836.4; intensity : 290.0 </ns0:peak>
+              <ns0:peak>mass : 851.5; intensity : 315.0 </ns0:peak>
+              <ns0:peak>mass : 857.4; intensity : 404.0 </ns0:peak>
+              <ns0:peak>mass : 899.5; intensity : 374.0 </ns0:peak>
+              <ns0:peak>mass : 905.4; intensity : 765.0 </ns0:peak>
+              <ns0:peak>mass : 918.5; intensity : 386.0 </ns0:peak>
+              <ns0:peak>mass : 973.5; intensity : 218.0 </ns0:peak>
+              <ns0:peak>mass : 996.5; intensity : 215.0 </ns0:peak>
+              <ns0:peak>mass : 997.5; intensity : 251.0 </ns0:peak>
+              <ns0:peak>mass : 1012.6; intensity : 624.0 </ns0:peak>
+              <ns0:peak>mass : 1032.5; intensity : 449.0 </ns0:peak>
+              <ns0:peak>mass : 1052.5; intensity : 305.0 </ns0:peak>
+              <ns0:peak>mass : 1078.5; intensity : 363.0 </ns0:peak>
+              <ns0:peak>mass : 1113.5; intensity : 349.0 </ns0:peak>
+              <ns0:peak>mass : 1159.6; intensity : 172.0 </ns0:peak>
+              <ns0:peak>mass : 1200.6; intensity : 253.0 </ns0:peak>
+              <ns0:peak>mass : 1236.6; intensity : 231.0 </ns0:peak>
+              <ns0:peak>mass : 1335.7; intensity : 442.0 </ns0:peak>
+              <ns0:peak>mass : 1360.7; intensity : 499.0 </ns0:peak>
+              <ns0:peak>mass : 1454.8; intensity : 452.0 </ns0:peak>
+              <ns0:peak>mass : 1526.7; intensity : 437.0 </ns0:peak>
+              <ns0:peak>mass : 1534.8; intensity : 426.0 </ns0:peak>
+              <ns0:peak>mass : 1535.7; intensity : 915.0 </ns0:peak>
+              <ns0:peak>mass : 1567.7; intensity : 878.0 </ns0:peak>
+              <ns0:peak>mass : 1635.8; intensity : 432.0 </ns0:peak>
+              <ns0:peak>mass : 1663.8; intensity : 730.0 </ns0:peak>
+              <ns0:peak>mass : 1676.8; intensity : 483.0 </ns0:peak>
+              <ns0:peak>mass : 1702.8; intensity : 508.0 </ns0:peak>
+              <ns0:peak>mass : 1724.8; intensity : 831.0 </ns0:peak>
+              <ns0:peak>mass : 1728.9; intensity : 534.0 </ns0:peak>
+              <ns0:peak>mass : 1763.9; intensity : 331.0 </ns0:peak>
+              <ns0:peak>mass : 1817.8; intensity : 386.0 </ns0:peak>
+              <ns0:peak>mass : 1821.0; intensity : 489.0 </ns0:peak>
+              <ns0:peak>mass : 2021.9; intensity : 253.0 </ns0:peak>
+              <ns0:peak>mass : 2042.0; intensity : 432.0 </ns0:peak>
+              <ns0:peak>mass : 2045.0; intensity : 286.0 </ns0:peak>
+              <ns0:peak>mass : 2070.9; intensity : 443.0 </ns0:peak>
+              <ns0:peak>mass : 2082.1; intensity : 434.0 </ns0:peak>
+              <ns0:peak>mass : 2086.0; intensity : 312.0 </ns0:peak>
+              <ns0:peak>mass : 2128.1; intensity : 310.0 </ns0:peak>
+              <ns0:peak>mass : 2177.2; intensity : 378.0 </ns0:peak>
+              <ns0:peak>mass : 2230.1; intensity : 402.0 </ns0:peak>
+              <ns0:peak>mass : 2309.1; intensity : 286.0 </ns0:peak>
+              <ns0:peak>mass : 2431.1; intensity : 558.0 </ns0:peak>
+              <ns0:peak>mass : 2488.0; intensity : 787.0 </ns0:peak>
+              <ns0:peak>mass : 2562.3; intensity : 391.0 </ns0:peak>
+              <ns0:peak>mass : 2779.4; intensity : 464.0 </ns0:peak>
+              <ns0:peak>mass : 2810.3; intensity : 327.0 </ns0:peak>
+              <ns0:peak>mass : 2818.3; intensity : 430.0 </ns0:peak>
+              <ns0:peak>mass : 2864.5; intensity : 521.0 </ns0:peak>
+              <ns0:peak>mass : 3003.5; intensity : 147.0 </ns0:peak>
+              <ns0:peak>mass : 3247.6; intensity : 191.0 </ns0:peak>
+              <ns0:peak>mass : 3517.7; intensity : 183.0 </ns0:peak>
+              <ns0:peak>mass : 3610.8; intensity : 173.0 </ns0:peak>
+              <ns0:peak>mass : 3647.5; intensity : 345.0 </ns0:peak>
+            </clade>
+          </clade>
+        </clade>
+        <ns0:peak>mass : 835.4; intensity : 232.0 </ns0:peak>
+        <ns0:peak>mass : 851.4; intensity : 397.0 </ns0:peak>
+        <ns0:peak>mass : 853.5; intensity : 641.0 </ns0:peak>
+        <ns0:peak>mass : 868.4; intensity : 293.0 </ns0:peak>
+        <ns0:peak>mass : 881.5; intensity : 222.0 </ns0:peak>
+        <ns0:peak>mass : 909.5; intensity : 215.0 </ns0:peak>
+        <ns0:peak>mass : 920.5; intensity : 300.0 </ns0:peak>
+        <ns0:peak>mass : 972.5; intensity : 262.0 </ns0:peak>
+        <ns0:peak>mass : 1039.5; intensity : 274.0 </ns0:peak>
+        <ns0:peak>mass : 1099.5; intensity : 319.0 </ns0:peak>
+        <ns0:peak>mass : 1173.6; intensity : 260.0 </ns0:peak>
+        <ns0:peak>mass : 1295.7; intensity : 201.0 </ns0:peak>
+        <ns0:peak>mass : 1296.6; intensity : 267.0 </ns0:peak>
+        <ns0:peak>mass : 1420.7; intensity : 213.0 </ns0:peak>
+        <ns0:peak>mass : 1484.7; intensity : 441.0 </ns0:peak>
+        <ns0:peak>mass : 1486.8; intensity : 376.0 </ns0:peak>
+        <ns0:peak>mass : 1512.8; intensity : 430.0 </ns0:peak>
+        <ns0:peak>mass : 1523.7; intensity : 415.0 </ns0:peak>
+        <ns0:peak>mass : 1581.8; intensity : 466.0 </ns0:peak>
+        <ns0:peak>mass : 1610.7; intensity : 632.0 </ns0:peak>
+        <ns0:peak>mass : 2072.0; intensity : 238.0 </ns0:peak>
+        <ns0:peak>mass : 2085.0; intensity : 226.0 </ns0:peak>
+        <ns0:peak>mass : 2120.1; intensity : 568.0 </ns0:peak>
+        <ns0:peak>mass : 2130.0; intensity : 563.0 </ns0:peak>
+        <ns0:peak>mass : 2225.1; intensity : 349.0 </ns0:peak>
+        <ns0:peak>mass : 2389.2; intensity : 390.0 </ns0:peak>
+        <ns0:peak>mass : 2659.2; intensity : 367.0 </ns0:peak>
+        <ns0:peak>mass : 2680.3; intensity : 529.0 </ns0:peak>
+        <ns0:peak>mass : 2910.4; intensity : 341.0 </ns0:peak>
+        <ns0:peak>mass : 3019.4; intensity : 433.0 </ns0:peak>
+        <ns0:peak>mass : 3604.7; intensity : 269.0 </ns0:peak>
+        <ns0:peak>mass : 3632.6; intensity : 366.0 </ns0:peak>
+      </clade>
+      <ns0:peak>mass : 800.4; intensity : 153.0 </ns0:peak>
+      <ns0:peak>mass : 808.4; intensity : 392.0 </ns0:peak>
+      <ns0:peak>mass : 850.4; intensity : 106.0 </ns0:peak>
+      <ns0:peak>mass : 885.4; intensity : 168.0 </ns0:peak>
+      <ns0:peak>mass : 912.4; intensity : 269.0 </ns0:peak>
+      <ns0:peak>mass : 947.4; intensity : 291.0 </ns0:peak>
+      <ns0:peak>mass : 1027.5; intensity : 149.0 </ns0:peak>
+      <ns0:peak>mass : 1071.5; intensity : 399.0 </ns0:peak>
+      <ns0:peak>mass : 1077.6; intensity : 253.0 </ns0:peak>
+      <ns0:peak>mass : 1088.6; intensity : 202.0 </ns0:peak>
+      <ns0:peak>mass : 1097.6; intensity : 312.0 </ns0:peak>
+      <ns0:peak>mass : 1119.5; intensity : 290.0 </ns0:peak>
+      <ns0:peak>mass : 1144.6; intensity : 375.0 </ns0:peak>
+      <ns0:peak>mass : 1145.6; intensity : 131.0 </ns0:peak>
+      <ns0:peak>mass : 1151.5; intensity : 451.0 </ns0:peak>
+      <ns0:peak>mass : 1168.6; intensity : 354.0 </ns0:peak>
+      <ns0:peak>mass : 1225.6; intensity : 456.0 </ns0:peak>
+      <ns0:peak>mass : 1289.6; intensity : 341.0 </ns0:peak>
+      <ns0:peak>mass : 1426.7; intensity : 281.0 </ns0:peak>
+      <ns0:peak>mass : 1443.7; intensity : 377.0 </ns0:peak>
+      <ns0:peak>mass : 1513.8; intensity : 524.0 </ns0:peak>
+      <ns0:peak>mass : 1536.8; intensity : 757.0 </ns0:peak>
+      <ns0:peak>mass : 1573.8; intensity : 537.0 </ns0:peak>
+      <ns0:peak>mass : 1598.8; intensity : 443.0 </ns0:peak>
+      <ns0:peak>mass : 1621.7; intensity : 439.0 </ns0:peak>
+      <ns0:peak>mass : 1622.8; intensity : 619.0 </ns0:peak>
+      <ns0:peak>mass : 1631.8; intensity : 417.0 </ns0:peak>
+      <ns0:peak>mass : 1693.7; intensity : 440.0 </ns0:peak>
+      <ns0:peak>mass : 1723.9; intensity : 409.0 </ns0:peak>
+      <ns0:peak>mass : 1733.8; intensity : 496.0 </ns0:peak>
+      <ns0:peak>mass : 1814.9; intensity : 537.0 </ns0:peak>
+      <ns0:peak>mass : 1992.0; intensity : 394.0 </ns0:peak>
+      <ns0:peak>mass : 2006.0; intensity : 427.0 </ns0:peak>
+      <ns0:peak>mass : 2220.1; intensity : 319.0 </ns0:peak>
+      <ns0:peak>mass : 2302.1; intensity : 639.0 </ns0:peak>
+      <ns0:peak>mass : 2499.2; intensity : 509.0 </ns0:peak>
+      <ns0:peak>mass : 2656.3; intensity : 544.0 </ns0:peak>
+    </clade>
+  </phylogeny>
+</phyloxml>
