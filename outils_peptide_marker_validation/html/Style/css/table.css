@@ -1,0 +1,164 @@
+/********* Tableaux **********************************************************/
+
+table.default{
+   border: 0px;
+   width: auto;
+   height: auto;
+   font-size: 10px;
+   border-collapse: collapse;  
+}
+
+table.default tr td{  
+   border: 1px black solid;
+   text-align: left;
+   color:#000000;
+   background-color: white;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+
+table.default th{
+  border: 1px solid black;
+  padding: 1px;
+
+}
+
+.center table.default{ 
+   margin: auto;
+}
+
+.center caption{
+   margin: auto;
+}
+
+table.result{
+  white-space: nowrap; 
+  border-collapse: collapse;
+  border: 1px black solid;
+  width: auto;
+  height: auto;
+  font-size: 9px;
+  text-align: center;
+  
+}
+
+.center table.result{
+  margin: auto;
+}
+
+caption.result{
+ font-family : Verdana;
+}
+
+table.result th{
+  font-family : Verdana;
+  border : 0px;
+  color : black;
+  background-color:#adbfe2;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  padding: 3px;
+}
+
+table.result tr.pair td{
+ font-family: monospace;
+ border: 0px;
+ color: black;
+ background-color:#f0f3fc;
+ padding-left: 5px;
+ padding-right: 5px;
+ text-align: center;	 
+}
+
+table.result tr.impair td{
+  font-family: monospace;
+  border: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+
+table.result tr.pair{
+ font-family: monospace;
+ border: 0px;
+ color: black;
+ background-color:#EFF2FB;
+ padding-left: 5px;
+ padding-right: 5px;
+ text-align: center;	 
+}
+
+table.result tr.impair{
+  font-family: monospace;
+  border: 0px;
+  color: black;
+  background-color:white;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+
+table.result tr.pair td.important{
+  border: 0px;
+  font-family: monospace;
+  color: black;
+  background-color:#D8D8D8; 
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+table.result tr.impair td.important{
+  font-family: monospace;
+  border: 0px;
+  color: black;
+  background-color:#F0F0F0; 
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+/*** mise en valeur lors du passage de la souris dans le tableau resultat ***/
+table.result tr.pair:hover td, table.result tr.impair:hover td{
+  color: white;
+  background-color: #003399; 
+  cursor: default; 
+}
+
+table.result tr.pair:hover td a, table.result tr.impair:hover td a{
+ color: white;
+ background-color: #003399; 
+}
+
+/* tableaux de construction (ne se voit pas)*/
+table.vide{
+   border: 0px;
+   border-collapse: separate;
+   margin: 0px;
+   padding: 0px; 
+}
+
+table.vide table.vide{
+  margin: 0px;
+}
+
+table.vide td{
+   text-align: left;
+   background-color: transparent;
+   color: black;
+   border: 0px;
+   padding-left: 5px;
+   padding-right: 5px;
+   padding-top: 5px;
+}
+
+table.vide td.center{
+  text-align: center;
+}
+
+table.vide tr td.label{
+  border: 0px solid black;
+  padding-left: 0px;
+  padding-right: 3px;
+}

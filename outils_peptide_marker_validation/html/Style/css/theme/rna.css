@@ -1,0 +1,24 @@
+#menu_central{
+    background-color: #FFE2BA;
+}
+
+#menu_central ul#menu li.onglet:hover{  
+  background-color: #FE9C03;
+}
+
+.active{
+    background-color: #FE9C03;
+}
+
+#link_home {
+    background-color: #FFE2BA;
+}
+
+#link_home:hover {
+    background-color: #FE9C03;
+}
+
+
+#title{
+   color:#FC7F3C;
+}

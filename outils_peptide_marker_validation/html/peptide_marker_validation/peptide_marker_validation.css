@@ -1,0 +1,16 @@
+@import url(/Style/css/theme/rna.css);
+@import url(/Style/css/aln_colors.css);
+
+.formulaire {
+    border: 1px solid #CCCCCC;
+    color: #000000;
+    margin: auto auto 10pt;
+    padding: 10px;
+}
+
+/*Eviter que les séquences dépassent de la div*/ 
+#seq {
+   white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+}

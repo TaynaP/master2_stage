@@ -1,0 +1,46 @@
+/** FOOTER ******************************************************************/
+
+#footer{
+    width: 100%;
+    position:relative;
+    text-align:right;
+    height: 27px;
+    font-size: 12px;
+    /*color: black;*/
+    padding-bottom:10px;
+    background-color:#EDEBE1;
+}
+
+#logos {
+    width: 100%;
+    position: relative;
+    text-align : center;
+    bottom:70px;
+}
+
+#logos img{
+    margin-left:30px;
+}
+
+
+#footerTable{
+  width:100%;
+  _width:960px;
+  padding-left:3px;
+  padding-right:3px;
+  padding-top:5px;
+  font-size:12px;
+}
+
+#footer_left{
+    text-align:left;
+}
+
+#footer_right{
+    padding-right:4px;
+    text-align:right;
+}
+
+#theme-border-footer{
+    margin-top:5px;
+}

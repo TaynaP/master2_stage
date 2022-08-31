@@ -1,0 +1,14 @@
+<ul id="menu">
+   	 <li class="onglet onglet_left">
+	    <a href="/peptide_marker_validation/" class="mc aLoad">Peptide marker validation</a>
+	 </li>
+	 <li class="onglet">
+	    <a href="/peptide_marker_validation/form.php" class="mc aLoad" >form :web server</a>
+	 </li>
+	 <li class="onglet">
+	    <a href="/peptide_marker_validation/page2.php" class="mc aLoad" >page 2</a>
+	 </li>
+	 <li class="onglet onglet_right">
+	    <a href="/peptide_marker_validation/page3.php" class="mc aLoad" >page 3 : id</a>
+	 </li>
+</ul>
