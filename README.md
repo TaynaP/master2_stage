@@ -1,97 +1,75 @@
 # master2_stage
 
+Reprend les codes faits pendant le stage de M2.
+
+- assignation_de_spectre : tout les scripts pour l'assignation de spectres de masse
+- comparaison_taxonomie_phylogenie : le script permettant la comparaison d'une phylogénie et d'une taxonomie
+- outils_peptide_marker_validation : les scripts côté html et cgi-bin de l'outil peptide_marker_validation à mettre sur le server bioinfodev 
+
+### Prérequis
+
+- Python 3 ou plus
+- [Biopython](https://github.com/biopython/biopython)
+- [RPG](https://rapid-peptide-generator.readthedocs.io/en/latest/)
+- [Pyteomics](https://pyteomics.readthedocs.io/en/latest/index.html) (pour l'assignation de spectres de masse)
+- [PTM_mass_simulator](https://gitlab.univ-lille.fr/bilille/ptm_mass_simulator) (pour le calcule des masses avec PTM : optionnel)
 
 
-# Project Title
+## Utilisation
 
-One Paragraph of the project description
+### assignation_de_spectre
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+Dans main_pep_liste_search_in_spectra.py:
 
-## Getting Started
+    python main_pep_liste_search_in_spectra.py -i PEPTIDESCSVFILE -o RESULTSPATH -t TAXONOMICTREE -s SEQUENCEFASTA -p PEAKMS [-r PTM] [-m THRESHOLD] 
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+- PEPTIDESCSVFILE : le chemin du fichier csv peptide généré par RPG
+- RESULTSPATH : le dossier résultat
+- TAXONOMICTREE : le chemin du fichier de l'arbre taxonomique au format Newick
+- SEQUENCEFASTA : le chemin du fichier multifasta contenant les séquences protéiques
+- PEAKMS : le chemin du fichier du spectre de masse
+- PTM : le chemin du fichier généré par PTM_mass_simulator (optionnel)
+- THRESHOLD : la précision demandée lors du calcule et de la comparaison des masses sous la forme ".{}f" (défaut : 3 chiffres après la virgule, sous la forme : ".3f")
 
-### Prerequisites
+Fichiers résultat:
+- peptides.csv / peptides.fasta : les peptides avec leur séquence, leurs masses, les LCA des espèces dans lesquelles le peptide apparait 
+- taxonomy.xml : le fichier de l'arbre taxonomique converti au format phyloXML avec les séquences protéiques associées aux feuilles de l'arbre taxonomie
+- taxonomy_with_peak.xml : l'arbre taxonomique avec les pics du spectre de masse associés aux peptides dans les séquences 
+- terminal_nodes.csv : les noeuds terminaux dans l'arbre taxonomique qui n'ont aucun pic associé à un peptide en dessous d'eux, leur niveau dans la taxonomie, et le nombre de peptides associés à un pic entre la racine et le clade
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+### outils_peptide_marker_validation
 
-### Installing
+- dossier html : le formulaire + page html + css
+- dossier cgi-bin : wrapper + scripts de l'outil
 
-A step by step series of examples that tell you how to get a development
-environment running
+Possibilité de lancer les scripts sans passer par le formulaire :
 
-Say what the step will be
+    python main_peptide_marker_validation.py -type TYPEOFSEQ -fpep NAMEPEP -fprot NAMESEQ -output NAMEOUTPUT -model NAMEMODEL [-e ENZYME] [-m MASSTHRESHOLD][-PTM MASSPTM]
 
-    Give the example
+- TYPEOFSEQ : type de séquences utilisé ("proteins", "RNA" ou "DNA")
+- NAMEPEP : chemin vers le fichier csv des peptides qui doit être formaté comme "peptide_input.csv"
+- NAMESEQ : le chemin vers les séquences au format fasta
+- NAMEOUTPUT : le nom du dossier résultat
+- NAMEMODEL : le chemin vers le modèle utilisé pour avoir les protéines matures (dans le dossier files/) pour l'instant 2 modèles sont proposés : col1a1 et col1a2 de l'humain
+- ENZYME : le numéro de l'enzyme utilisé par RPG 
+- MASSTHRESHOLD : la précision demandé pour le calcule et la comparaison des masses ("1" ou "3" pour 1 chiffre ou 3 chiffres après la virgule)
+- MASSPTM : pour la prise en compte de la masse des PTM (non pris en compte pour le moment dans le script)
 
-And repeat
+Fichiers résultat:
 
-    until finished
+- peptides.csv : la séquence du peptide, la masse, le nom des séquences dans lesquelles il apparait, la position de début et de fin de l'occurence du peptide dans la protéine mature + le nom de la séquence, le label (le nom du peptide donné par l'utilisateur), la séquence target + le nom de la séquence, la masse de la séquence target + l'espèce
+- mature_prot.fasta : (seulement si utilisation de RPG) les séquences protéiques matures au format fasta
+- rpg_converted.csv : (seulement si utilisation de RPG) le fichier résultat donné par RPG convertit dans le format CSV utilisé en input 
+- rpg.csv : (seulement si utilisation de RPG) le fichier de sortie de RPG
 
-End with an example of getting some data out of the system or using it
-for a little demo
+### comparaison_taxonomie_phylogenie
 
-## Running the tests
+    python comp_tree.py -p PHYLOGENETICTREE -t TAXONOMICTREE -s SEQUENCEFASTA -e PEPTIDESEQ
+  
+- PHYLOGENETICTREE : le chemin du fichier de l'arbre phylogénétique au format Newick
+- TAXONOMICTREE : le chemin de l'arbre taxonomique au format Newick
+- SEQUENCEFASTA : le chemin des séquences protéiques au format fasta
+- PEPTIDESEQ : le chemin du fichier des peptides à vérifié dans la taxonomie (csv ou une ligne = combinaison de peptides uniques)
 
-Explain how to run the automated tests for this system
+Exemple d'output : output_taxonomie_complete_specie.txt
 
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-## Acknowledgments
-
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc

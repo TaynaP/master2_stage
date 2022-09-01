@@ -113,7 +113,7 @@ if __name__ == '__main__':
     #on génère les peptides par rpg et on regarde la masse
     else:
         threshold = ".{}f".format(args.MassThreshold) #la précision soit 1 ou 3 chiffres après la virgule
-        csv_file_rpg = args.NameOutput + "rpg_mass.csv"
+        csv_file_rpg = args.NameOutput + "rpg.csv"
         create_fasta(args.NameOutput, dict_prot) #on crée un fichier fasta avec les séquences protéiques matures (dict_prot contient les séquences protéiques matures)
         mature_prot_fasta = args.NameOutput + "mature_prot.fasta"
         #Use of RPG

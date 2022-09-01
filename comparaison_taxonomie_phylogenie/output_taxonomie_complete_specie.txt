@@ -1,0 +1,1161 @@
+--------------------------
+|For clade Boreoeutheria :|
+--------------------------
+Nb of species in the taxonomy : 82
+Nb of species in the LCA found in the phylogenetic tree : 84
+Nb of misplaced species : 2
+Misplaced species:
+['Dasypus_novemcinctus', 'Choloepus_didactylus']
+LCA in ascii :
+           , Lynx_rufus
+           |
+           , Acinonyx_jubatus
+           |
+           | Felis_catus
+          ,|
+          || Lynx_pardinus
+          ||
+          || Puma_concolor
+          |
+        __| Leopardus_geoffroyi
+       |  |
+       |  , Panthera_pardus
+       |  |
+       |  | Panthera_tigris
+       |
+       |       , Mustela_putorius_furo
+       |      _|
+       |    ,| | Mustela_erminea
+       |    ||
+       |    ||_ Neovison_vison
+       |    |
+       |  __| Lontra_canadensis
+       | |  |
+      ,| |  , Meles_meles
+      || |  |
+      || |  | Enhydra_lutris_kenyoni
+      || |
+      || |    , Mirounga_angustirostris
+      || |    |
+      ||,|   ,| Mirounga_leonina
+      ||||   ||
+      ||||   || Leptonychotes_weddellii
+      ||||   |
+      |||| __|___ Neomonachus_schauinslandi
+      |||||  |
+      |||||  |, Halichoerus_grypus
+      |||||  ||
+   ___|||||   | Phoca_vitulina
+  |   | | |
+  |   | | | , Zalophus_californianus
+  |   | | |,|
+  |   | | ||| Callorhinus_ursinus
+  |   | |  |
+  |   | |  |_ Odobenus_rosmarus_divergens
+  |   | |
+  |   | | , Ailuropoda_melanoleuca
+  |   | |_|
+  |   |   |_ Ursus_maritimus
+  |   |
+  |   | , Canis_lupus_dingo
+  |   | |
+  |   | | Canis_lupus_familiaris
+  |   |_|
+  |     |, Vulpes_lagopus
+  |     ||
+  |      | Vulpes_vulpes
+  |
+  |                   , Chlorocebus_sabaeus
+  |                  ,|
+  |                  |, Mandrillus_leucophaeus
+  |                  ||
+  |                  ||, Macaca_mulatta
+  |                 ,|||
+  |                 || | Macaca_fascicularis
+ ,|                 ||
+ ||                 |, Piliocolobus_tephrosceles
+ ||                ,||
+ ||                ||| Colobus_angolensis_palliatus
+ ||                |||
+ ||                ||| Trachypithecus_francoisi
+ ||         _______||
+ ||        |       ||_ Hylobates_moloch
+ ||        |       |
+ ||        |       |, Callithrix_jacchus
+ ||        |       ||
+ ||      __|       || Cebus_capucinus_imitator
+ ||     |  |        |
+ ||     |  |        |_ Aotus_nancymaae
+ ||     |  |
+ ||     |  |     _________ Lemur_catta
+ ||    _|  |____|
+ ||   | |       |_______________ Otolemur_garnettii
+ ||   | |
+ ||   | |              , Marmota_monax
+ ||   | |  ____________|
+ ||   | | |            | , Ictidomys_tridecemlineatus
+ ||  _| |_|            |_|
+ || | |   |              | Urocitellus_parryii
+ || | |   |
+ || | |   |________ Oryctolagus_cuniculus
+ || | |
+ ||_| |           _________ Dasypus_novemcinctus
+ |  | |__________|
+ |  |            |_______________ Choloepus_didactylus
+ |  |
+ |  |    ________________ Erinaceus_europaeus
+ |  |___|
+ |      |________________ Talpa_occidentalis
+ |
+ |              , Camelus_ferus
+ |             ,|
+_|       ______|| Camelus_dromedarius
+ |      |      |
+ |      |      | Vicugna_pacos
+ |      |
+ |      |   _____ Sus_scrofa
+ |      |  |
+ |   ___|  |            , Bos_taurus
+ |  |   |  |            |
+ |  |   |  |           _| Bos_mutus
+ |  |   |  |          | |
+ |  |   |  |          | | Bos_indicus
+ |  |   |  |          |
+ |  |   |  |         ,| Bubalus_bubalis
+ |  |   |__|         ||
+ |  |      |         ||__ Oryx_dammah
+ |  |      |     ____|
+ |  |      |    |    | _ Odocoileus_virginianus_texanus
+ |  |      |    |    ||
+ |  |      |    |    || Cervus_canadensis
+ |  |      |    |    ||
+ |  |      |    |     |, Muntiacus_reevesi
+ |  |      |    |     ||
+ |  |      |____|      | Muntiacus_muntjak
+ |  |           |
+ |__|           |              , Balaenoptera_musculus
+ |  |           |         _____|
+ |  |           |        |     | Balaenoptera_acutorostrata_scammoni
+ |  |           |        |
+ |  |           |        |___ Physeter_catodon
+ |  |           |        |
+ |  |           |________|  , Neophocaena_asiaeorientalis_asiaeorie...
+ |  |                    | ,|
+ |  |                    | || Phocoena_sinus
+ |  |                    | |
+ |  |                    | |  , Delphinapterus_leucas
+ |  |                    |_|__|
+ |  |                      |  | Monodon_monoceros
+ |  |                      |
+ |  |                      |_ Lipotes_vexillifer
+ |  |
+ |  |       , Equus_burchellii_quagga
+ |  |      _|
+ |  |_____| | Equus_asinus
+ |        |
+ |        |______ Ceratotherium_simum_simum
+ |
+ |               , Manis_pentadactyla
+ |   ____________|
+ |  |            | Manis_javanica
+ |  |
+ |  |           , Pteropus_giganteus
+ |__|          ,|
+    |     _____|| Pteropus_alecto
+    |    |     |
+    |    |     |___ Rousettus_aegyptiacus
+    |    |
+    |____|          ____ Miniopterus_natalensis
+         |        _|
+         |    ___| |_______ Eptesicus_fuscus
+         |   |   |
+         |___|   |________ Molossus_molossus
+             |
+             |            , Phyllostomus_hastatus
+             |____________|
+                          | Phyllostomus_discolor
+
+Subtree nb 1:
+                            , Lynx_rufus
+                            |
+                            , Acinonyx_jubatus
+                            |
+                            | Felis_catus
+                           ,|
+                           || Lynx_pardinus
+                           ||
+                           || Puma_concolor
+                           |
+                ___________|_ Leopardus_geoffroyi
+               |           |
+               |           , Panthera_pardus
+               |           |
+               |           | Panthera_tigris
+               |
+               |                           , Mustela_putorius_furo
+               |                       ____|
+               |                   ___|    | Mustela_erminea
+               |                  |   |
+               |                __|   |___ Neovison_vison
+               |               |  |
+               |        _______|  |___ Lontra_canadensis
+               |       |       |
+              _|       |       |___ Meles_meles
+             | |       |       |
+             | |       |       |_____ Enhydra_lutris_kenyoni
+             | |       |
+             | |       |                 , Mirounga_angustirostris
+             | |       |               __|
+             | |     __|             ,|  | Mirounga_leonina
+             | |    |  |             ||
+             | |    |  |            _||__ Leptonychotes_weddellii
+             | |    |  |           | |
+             | |    |  |     ______| |__________ Neomonachus_schauinslandi
+             | |    |  |    |      |
+             | |    |  |    |      |    , Halichoerus_grypus
+             | |    |  |    |      |____|
+_____________| |____|  |____|           | Phoca_vitulina
+             |      |       |
+             |      |       |    , Zalophus_californianus
+             |      |       |   _|
+             |      |       |__| | Callorhinus_ursinus
+             |      |          |
+             |      |          |____ Odobenus_rosmarus_divergens
+             |      |
+             |      |      ___ Ailuropoda_melanoleuca
+             |      |_____|
+             |            |_____ Ursus_maritimus
+             |
+             |        , Canis_lupus_dingo
+             |        |
+             |        |_ Canis_lupus_familiaris
+             |________|
+                      | , Vulpes_lagopus
+                      |_|
+                        | Vulpes_vulpes
+
+Subtree nb 2:
+                            , Chlorocebus_sabaeus
+                           ,|
+                           |, Mandrillus_leucophaeus
+                           ||
+                           || , Macaca_mulatta
+                          _||_|
+                         | |  | Macaca_fascicularis
+                         | |
+                         | , Piliocolobus_tephrosceles
+                        _| |
+                       | | | Colobus_angolensis_palliatus
+                       | | |
+                       | | | Trachypithecus_francoisi
+           ____________| |
+          |            | |__ Hylobates_moloch
+          |            |
+          |            | , Callithrix_jacchus
+          |            | |
+     _____|            |_|_ Cebus_capucinus_imitator
+    |     |              |
+    |     |              |__ Aotus_nancymaae
+    |     |
+    |     |        ________________ Lemur_catta
+____|     |_______|
+    |             |____________________________ Otolemur_garnettii
+    |
+    |                        , Marmota_monax
+    |    ____________________|
+    |   |                    |   , Ictidomys_tridecemlineatus
+    |___|                    |___|
+        |                        | Urocitellus_parryii
+        |
+        |______________ Oryctolagus_cuniculus
+
+Subtree nb 3:
+              ___________________________________________ Erinaceus_europaeus
+_____________|
+             |______________________________________________ Talpa_occidentalis
+
+Subtree nb 4:
+                 , Camelus_ferus
+                _|
+         ______| | Camelus_dromedarius
+        |      |
+        |      | Vicugna_pacos
+        |
+        |   ______ Sus_scrofa
+        |  |
+     ___|  |             , Bos_taurus
+    |   |  |             |
+    |   |  |            _| Bos_mutus
+    |   |  |           | |
+    |   |  |          ,| | Bos_indicus
+    |   |  |          ||
+    |   |  |         ,|| Bubalus_bubalis
+    |   |__|         ||
+    |      |         ||___ Oryx_dammah
+    |      |     ____|
+    |      |    |    |  _ Odocoileus_virginianus_texanus
+    |      |    |    | |
+    |      |    |    | | Cervus_canadensis
+    |      |    |    |_|
+    |      |    |      |, Muntiacus_reevesi
+    |      |    |      ||
+    |      |____|       | Muntiacus_muntjak
+    |           |
+  __|           |                _ Balaenoptera_musculus
+ |  |           |          _____|
+ |  |           |        ,|     | Balaenoptera_acutorostrata_scammoni
+ |  |           |        ||
+ |  |           |        ||___ Physeter_catodon
+ |  |           |        |
+ |  |           |________|   , Neophocaena_asiaeorientalis_asiaeorie...
+ |  |                    |  ,|
+ |  |                    |  || Phocoena_sinus
+ |  |                    | ,|
+ |  |                    | ||  , Delphinapterus_leucas
+ |  |                    |_||__|
+ |  |                      |   | Monodon_monoceros
+_|  |                      |
+ |  |                      |_ Lipotes_vexillifer
+ |  |
+ |  |        , Equus_burchellii_quagga
+ |  |      __|
+ |  |_____|  | Equus_asinus
+ |        |
+ |        |_______ Ceratotherium_simum_simum
+ |
+ |               , Manis_pentadactyla
+ |   ____________|
+ |  |            | Manis_javanica
+ |  |
+ |  |            , Pteropus_giganteus
+ |__|           _|
+    |     _____| | Pteropus_alecto
+    |    |     |
+    |    |     |___ Rousettus_aegyptiacus
+    |    |
+    |____|           ____ Miniopterus_natalensis
+         |         _|
+         |    ____| |_______ Eptesicus_fuscus
+         |   |    |
+         |___|    |________ Molossus_molossus
+             |
+             |             , Phyllostomus_hastatus
+             |_____________|
+                           | Phyllostomus_discolor
+
+Nb of subtrees taxonomically correct: 4
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 4
+Distance of subtree 3 from LCA's root : 3
+Distance of subtree 4 from LCA's root : 1
+=========================================
+---------------------------
+|For clade Laurasiatheria :|
+---------------------------
+Nb of species in the taxonomy : 65
+Nb of species in the LCA found in the phylogenetic tree : 84
+Nb of misplaced species : 19
+Misplaced species:
+['Mandrillus_leucophaeus', 'Chlorocebus_sabaeus', 'Macaca_fascicularis', 'Lemur_catta', 'Piliocolobus_tephrosceles', 'Trachypithecus_francoisi', 'Hylobates_moloch', 'Callithrix_jacchus', 'Dasypus_novemcinctus', 'Aotus_nancymaae', 'Cebus_capucinus_imitator', 'Oryctolagus_cuniculus', 'Urocitellus_parryii', 'Colobus_angolensis_palliatus', 'Choloepus_didactylus', 'Otolemur_garnettii', 'Macaca_mulatta', 'Marmota_monax', 'Ictidomys_tridecemlineatus']
+LCA in ascii :
+           , Lynx_rufus
+           |
+           , Acinonyx_jubatus
+           |
+           | Felis_catus
+          ,|
+          || Lynx_pardinus
+          ||
+          || Puma_concolor
+          |
+        __| Leopardus_geoffroyi
+       |  |
+       |  , Panthera_pardus
+       |  |
+       |  | Panthera_tigris
+       |
+       |       , Mustela_putorius_furo
+       |      _|
+       |    ,| | Mustela_erminea
+       |    ||
+       |    ||_ Neovison_vison
+       |    |
+       |  __| Lontra_canadensis
+       | |  |
+      ,| |  , Meles_meles
+      || |  |
+      || |  | Enhydra_lutris_kenyoni
+      || |
+      || |    , Mirounga_angustirostris
+      || |    |
+      ||,|   ,| Mirounga_leonina
+      ||||   ||
+      ||||   || Leptonychotes_weddellii
+      ||||   |
+      |||| __|___ Neomonachus_schauinslandi
+      |||||  |
+      |||||  |, Halichoerus_grypus
+      |||||  ||
+   ___|||||   | Phoca_vitulina
+  |   | | |
+  |   | | | , Zalophus_californianus
+  |   | | |,|
+  |   | | ||| Callorhinus_ursinus
+  |   | |  |
+  |   | |  |_ Odobenus_rosmarus_divergens
+  |   | |
+  |   | | , Ailuropoda_melanoleuca
+  |   | |_|
+  |   |   |_ Ursus_maritimus
+  |   |
+  |   | , Canis_lupus_dingo
+  |   | |
+  |   | | Canis_lupus_familiaris
+  |   |_|
+  |     |, Vulpes_lagopus
+  |     ||
+  |      | Vulpes_vulpes
+  |
+  |                   , Chlorocebus_sabaeus
+  |                  ,|
+  |                  |, Mandrillus_leucophaeus
+  |                  ||
+  |                  ||, Macaca_mulatta
+  |                 ,|||
+  |                 || | Macaca_fascicularis
+ ,|                 ||
+ ||                 |, Piliocolobus_tephrosceles
+ ||                ,||
+ ||                ||| Colobus_angolensis_palliatus
+ ||                |||
+ ||                ||| Trachypithecus_francoisi
+ ||         _______||
+ ||        |       ||_ Hylobates_moloch
+ ||        |       |
+ ||        |       |, Callithrix_jacchus
+ ||        |       ||
+ ||      __|       || Cebus_capucinus_imitator
+ ||     |  |        |
+ ||     |  |        |_ Aotus_nancymaae
+ ||     |  |
+ ||     |  |     _________ Lemur_catta
+ ||    _|  |____|
+ ||   | |       |_______________ Otolemur_garnettii
+ ||   | |
+ ||   | |              , Marmota_monax
+ ||   | |  ____________|
+ ||   | | |            | , Ictidomys_tridecemlineatus
+ ||  _| |_|            |_|
+ || | |   |              | Urocitellus_parryii
+ || | |   |
+ || | |   |________ Oryctolagus_cuniculus
+ || | |
+ ||_| |           _________ Dasypus_novemcinctus
+ |  | |__________|
+ |  |            |_______________ Choloepus_didactylus
+ |  |
+ |  |    ________________ Erinaceus_europaeus
+ |  |___|
+ |      |________________ Talpa_occidentalis
+ |
+ |              , Camelus_ferus
+ |             ,|
+_|       ______|| Camelus_dromedarius
+ |      |      |
+ |      |      | Vicugna_pacos
+ |      |
+ |      |   _____ Sus_scrofa
+ |      |  |
+ |   ___|  |            , Bos_taurus
+ |  |   |  |            |
+ |  |   |  |           _| Bos_mutus
+ |  |   |  |          | |
+ |  |   |  |          | | Bos_indicus
+ |  |   |  |          |
+ |  |   |  |         ,| Bubalus_bubalis
+ |  |   |__|         ||
+ |  |      |         ||__ Oryx_dammah
+ |  |      |     ____|
+ |  |      |    |    | _ Odocoileus_virginianus_texanus
+ |  |      |    |    ||
+ |  |      |    |    || Cervus_canadensis
+ |  |      |    |    ||
+ |  |      |    |     |, Muntiacus_reevesi
+ |  |      |    |     ||
+ |  |      |____|      | Muntiacus_muntjak
+ |  |           |
+ |__|           |              , Balaenoptera_musculus
+ |  |           |         _____|
+ |  |           |        |     | Balaenoptera_acutorostrata_scammoni
+ |  |           |        |
+ |  |           |        |___ Physeter_catodon
+ |  |           |        |
+ |  |           |________|  , Neophocaena_asiaeorientalis_asiaeorie...
+ |  |                    | ,|
+ |  |                    | || Phocoena_sinus
+ |  |                    | |
+ |  |                    | |  , Delphinapterus_leucas
+ |  |                    |_|__|
+ |  |                      |  | Monodon_monoceros
+ |  |                      |
+ |  |                      |_ Lipotes_vexillifer
+ |  |
+ |  |       , Equus_burchellii_quagga
+ |  |      _|
+ |  |_____| | Equus_asinus
+ |        |
+ |        |______ Ceratotherium_simum_simum
+ |
+ |               , Manis_pentadactyla
+ |   ____________|
+ |  |            | Manis_javanica
+ |  |
+ |  |           , Pteropus_giganteus
+ |__|          ,|
+    |     _____|| Pteropus_alecto
+    |    |     |
+    |    |     |___ Rousettus_aegyptiacus
+    |    |
+    |____|          ____ Miniopterus_natalensis
+         |        _|
+         |    ___| |_______ Eptesicus_fuscus
+         |   |   |
+         |___|   |________ Molossus_molossus
+             |
+             |            , Phyllostomus_hastatus
+             |____________|
+                          | Phyllostomus_discolor
+
+Subtree nb 1:
+                            , Lynx_rufus
+                            |
+                            , Acinonyx_jubatus
+                            |
+                            | Felis_catus
+                           ,|
+                           || Lynx_pardinus
+                           ||
+                           || Puma_concolor
+                           |
+                ___________|_ Leopardus_geoffroyi
+               |           |
+               |           , Panthera_pardus
+               |           |
+               |           | Panthera_tigris
+               |
+               |                           , Mustela_putorius_furo
+               |                       ____|
+               |                   ___|    | Mustela_erminea
+               |                  |   |
+               |                __|   |___ Neovison_vison
+               |               |  |
+               |        _______|  |___ Lontra_canadensis
+               |       |       |
+              _|       |       |___ Meles_meles
+             | |       |       |
+             | |       |       |_____ Enhydra_lutris_kenyoni
+             | |       |
+             | |       |                 , Mirounga_angustirostris
+             | |       |               __|
+             | |     __|             ,|  | Mirounga_leonina
+             | |    |  |             ||
+             | |    |  |            _||__ Leptonychotes_weddellii
+             | |    |  |           | |
+             | |    |  |     ______| |__________ Neomonachus_schauinslandi
+             | |    |  |    |      |
+             | |    |  |    |      |    , Halichoerus_grypus
+             | |    |  |    |      |____|
+_____________| |____|  |____|           | Phoca_vitulina
+             |      |       |
+             |      |       |    , Zalophus_californianus
+             |      |       |   _|
+             |      |       |__| | Callorhinus_ursinus
+             |      |          |
+             |      |          |____ Odobenus_rosmarus_divergens
+             |      |
+             |      |      ___ Ailuropoda_melanoleuca
+             |      |_____|
+             |            |_____ Ursus_maritimus
+             |
+             |        , Canis_lupus_dingo
+             |        |
+             |        |_ Canis_lupus_familiaris
+             |________|
+                      | , Vulpes_lagopus
+                      |_|
+                        | Vulpes_vulpes
+
+Subtree nb 2:
+              ___________________________________________ Erinaceus_europaeus
+_____________|
+             |______________________________________________ Talpa_occidentalis
+
+Subtree nb 3:
+                 , Camelus_ferus
+                _|
+         ______| | Camelus_dromedarius
+        |      |
+        |      | Vicugna_pacos
+        |
+        |   ______ Sus_scrofa
+        |  |
+     ___|  |             , Bos_taurus
+    |   |  |             |
+    |   |  |            _| Bos_mutus
+    |   |  |           | |
+    |   |  |          ,| | Bos_indicus
+    |   |  |          ||
+    |   |  |         ,|| Bubalus_bubalis
+    |   |__|         ||
+    |      |         ||___ Oryx_dammah
+    |      |     ____|
+    |      |    |    |  _ Odocoileus_virginianus_texanus
+    |      |    |    | |
+    |      |    |    | | Cervus_canadensis
+    |      |    |    |_|
+    |      |    |      |, Muntiacus_reevesi
+    |      |    |      ||
+    |      |____|       | Muntiacus_muntjak
+    |           |
+  __|           |                _ Balaenoptera_musculus
+ |  |           |          _____|
+ |  |           |        ,|     | Balaenoptera_acutorostrata_scammoni
+ |  |           |        ||
+ |  |           |        ||___ Physeter_catodon
+ |  |           |        |
+ |  |           |________|   , Neophocaena_asiaeorientalis_asiaeorie...
+ |  |                    |  ,|
+ |  |                    |  || Phocoena_sinus
+ |  |                    | ,|
+ |  |                    | ||  , Delphinapterus_leucas
+ |  |                    |_||__|
+ |  |                      |   | Monodon_monoceros
+_|  |                      |
+ |  |                      |_ Lipotes_vexillifer
+ |  |
+ |  |        , Equus_burchellii_quagga
+ |  |      __|
+ |  |_____|  | Equus_asinus
+ |        |
+ |        |_______ Ceratotherium_simum_simum
+ |
+ |               , Manis_pentadactyla
+ |   ____________|
+ |  |            | Manis_javanica
+ |  |
+ |  |            , Pteropus_giganteus
+ |__|           _|
+    |     _____| | Pteropus_alecto
+    |    |     |
+    |    |     |___ Rousettus_aegyptiacus
+    |    |
+    |____|           ____ Miniopterus_natalensis
+         |         _|
+         |    ____| |_______ Eptesicus_fuscus
+         |   |    |
+         |___|    |________ Molossus_molossus
+             |
+             |             , Phyllostomus_hastatus
+             |_____________|
+                           | Phyllostomus_discolor
+
+Nb of subtrees taxonomically correct: 3
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 3
+Distance of subtree 3 from LCA's root : 1
+=========================================
+-----------------------
+|For clade Caniformia :|
+-----------------------
+Nb of species in the taxonomy : 21
+Nb of species in the LCA found in the phylogenetic tree : 29
+Nb of misplaced species : 8
+Misplaced species:
+['Puma_concolor', 'Panthera_tigris', 'Lynx_rufus', 'Leopardus_geoffroyi', 'Acinonyx_jubatus', 'Lynx_pardinus', 'Felis_catus', 'Panthera_pardus']
+LCA in ascii :
+                            , Lynx_rufus
+                            |
+                            , Acinonyx_jubatus
+                            |
+                            | Felis_catus
+                           ,|
+                           || Lynx_pardinus
+                           ||
+                           || Puma_concolor
+                           |
+                ___________|_ Leopardus_geoffroyi
+               |           |
+               |           , Panthera_pardus
+               |           |
+               |           | Panthera_tigris
+               |
+               |                           , Mustela_putorius_furo
+               |                       ____|
+               |                   ___|    | Mustela_erminea
+               |                  |   |
+               |                __|   |___ Neovison_vison
+               |               |  |
+               |        _______|  |___ Lontra_canadensis
+               |       |       |
+              _|       |       |___ Meles_meles
+             | |       |       |
+             | |       |       |_____ Enhydra_lutris_kenyoni
+             | |       |
+             | |       |                 , Mirounga_angustirostris
+             | |       |               __|
+             | |     __|             ,|  | Mirounga_leonina
+             | |    |  |             ||
+             | |    |  |            _||__ Leptonychotes_weddellii
+             | |    |  |           | |
+             | |    |  |     ______| |__________ Neomonachus_schauinslandi
+             | |    |  |    |      |
+             | |    |  |    |      |    , Halichoerus_grypus
+             | |    |  |    |      |____|
+_____________| |____|  |____|           | Phoca_vitulina
+             |      |       |
+             |      |       |    , Zalophus_californianus
+             |      |       |   _|
+             |      |       |__| | Callorhinus_ursinus
+             |      |          |
+             |      |          |____ Odobenus_rosmarus_divergens
+             |      |
+             |      |      ___ Ailuropoda_melanoleuca
+             |      |_____|
+             |            |_____ Ursus_maritimus
+             |
+             |        , Canis_lupus_dingo
+             |        |
+             |        |_ Canis_lupus_familiaris
+             |________|
+                      | , Vulpes_lagopus
+                      |_|
+                        | Vulpes_vulpes
+
+Subtree nb 1:
+                                          _ Mustela_putorius_furo
+                                  _______|
+                            _____|       |_ Mustela_erminea
+                           |     |
+                         __|     |_____ Neovison_vison
+                        |  |
+            ____________|  |_____ Lontra_canadensis
+           |            |
+           |            |____ Meles_meles
+           |            |
+           |            |_______ Enhydra_lutris_kenyoni
+           |
+           |                          , Mirounga_angustirostris
+           |                      ____|
+        ___|                    ,|    | Mirounga_leonina
+       |   |                    ||
+       |   |                  __||____ Leptonychotes_weddellii
+       |   |                 |  |
+       |   |       __________|  |_______________ Neomonachus_schauinslandi
+       |   |      |          |
+       |   |      |          |       _ Halichoerus_grypus
+       |   |      |          |______|
+_______|   |______|                 | Phoca_vitulina
+       |          |
+       |          |       , Zalophus_californianus
+       |          |     __|
+       |          |____|  | Callorhinus_ursinus
+       |               |
+       |               |_______ Odobenus_rosmarus_divergens
+       |
+       |         _____ Ailuropoda_melanoleuca
+       |________|
+                |________ Ursus_maritimus
+
+Subtree nb 2:
+                                          , Canis_lupus_dingo
+                                          |
+                                          |________ Canis_lupus_familiaris
+__________________________________________|
+                                          |        , Vulpes_lagopus
+                                          |________|
+                                                   |____ Vulpes_vulpes
+
+Nb of subtrees taxonomically correct: 2
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 1
+=========================================
+---------------------
+|For clade Lutrinae :|
+---------------------
+Nb of species in the taxonomy : 2
+Nb of species in the LCA found in the phylogenetic tree : 6
+Nb of misplaced species : 4
+Misplaced species:
+['Neovison_vison', 'Mustela_erminea', 'Mustela_putorius_furo', 'Meles_meles']
+LCA in ascii :
+                                                     __ Mustela_putorius_furo
+                                       _____________|
+                             _________|             |__ Mustela_erminea
+                            |         |
+                       _____|         |__________ Neovison_vison
+                      |     |
+______________________|     |_________ Lontra_canadensis
+                      |
+                      |_______ Meles_meles
+                      |
+                      |_____________ Enhydra_lutris_kenyoni
+
+Subtree nb 1:
+Lontra_canadensis
+Subtree nb 2:
+Enhydra_lutris_kenyoni
+Nb of subtrees taxonomically correct: 2
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 2
+=========================================
+--------------------
+|For clade Felinae :|
+--------------------
+Nb of species in the taxonomy : 5
+Nb of species in the LCA found in the phylogenetic tree : 6
+Nb of misplaced species : 1
+Misplaced species:
+['Acinonyx_jubatus']
+LCA in ascii :
+                             , Lynx_rufus
+                             |
+                             , Acinonyx_jubatus
+                             |
+                             | Felis_catus
+  ___________________________|
+ |                           | Lynx_pardinus
+_|                           |
+ |                           |____________________________ Puma_concolor
+ |
+ |________________________________________________________ Leopardus_geoffroyi
+
+Subtree nb 1:
+Lynx_rufus
+Subtree nb 2:
+Felis_catus
+Subtree nb 3:
+Lynx_pardinus
+Subtree nb 4:
+Puma_concolor
+Subtree nb 5:
+Leopardus_geoffroyi
+Nb of subtrees taxonomically correct: 5
+Distance of subtree 1 from LCA's root : 4
+Distance of subtree 2 from LCA's root : 5
+Distance of subtree 3 from LCA's root : 3
+Distance of subtree 4 from LCA's root : 2
+Distance of subtree 5 from LCA's root : 1
+=========================================
+-----------------
+|For clade Lynx :|
+-----------------
+Nb of species in the taxonomy : 2
+Nb of species in the LCA found in the phylogenetic tree : 4
+Nb of misplaced species : 2
+Misplaced species:
+['Felis_catus', 'Acinonyx_jubatus']
+LCA in ascii :
+                      ___________________ Lynx_rufus
+  ___________________|
+ |                   |                    ____________________ Acinonyx_jubatus
+_|                   |___________________|
+ |                                       |____________________ Felis_catus
+ |
+ |___________________ Lynx_pardinus
+
+Subtree nb 1:
+Lynx_rufus
+Subtree nb 2:
+Lynx_pardinus
+Nb of subtrees taxonomically correct: 2
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 1
+=========================================
+-----------------------
+|For clade Odontoceti :|
+-----------------------
+Nb of species in the taxonomy : 6
+Nb of species in the LCA found in the phylogenetic tree : 8
+Nb of misplaced species : 2
+Misplaced species:
+['Balaenoptera_acutorostrata_scammoni', 'Balaenoptera_musculus']
+LCA in ascii :
+                                 ____ Balaenoptera_musculus
+                      __________|
+                    ,|          |__ Balaenoptera_acutorostrata_scammoni
+                    ||
+                    ||_______ Physeter_catodon
+                    |
+____________________|      , Neophocaena_asiaeorientalis_asiaeorie...
+                    |     ,|
+                    |     || Phocoena_sinus
+                    |    _|
+                    |   | |    _ Delphinapterus_leucas
+                    |___| |___|
+                        |     | Monodon_monoceros
+                        |
+                        |___ Lipotes_vexillifer
+
+Subtree nb 1:
+Physeter_catodon
+Subtree nb 2:
+                       , Neophocaena_asiaeorientalis_asiaeorie...
+                   ____|
+                  |    | Phocoena_sinus
+              ____|
+             |    |              ____ Delphinapterus_leucas
+_____________|    |_____________|
+             |                  | Monodon_monoceros
+             |
+             |____________ Lipotes_vexillifer
+
+Nb of subtrees taxonomically correct: 2
+Distance of subtree 1 from LCA's root : 2
+Distance of subtree 2 from LCA's root : 1
+=========================================
+Percentage of clade in the taxonomy that was correctly found in the phylogenetic tree : 87.93103448275862%
+=========================================
+For the peptides ['DGDDGIPGPPGPPGPPGPPGLGGNFAAQNDGK', 'GLIGEPGPAGSK', 'GTPGEFGLPGPAGPR', 'GENGPAGPTGPVGAAGPSGPNGPPGPAGSR', 'GLPGVAGSVGEPGPLGISGPTGAR', 'GESGPSGPTGLAGAVGPR', 'GHNGLQGLPGFAGHHGDQGAPGTVGPAGPR'] :
+Clades that have all the peptides :
+['Balaenoptera_acutorostrata_scammoni']
+=========================================================
+For the peptides ['GEPGAPGENGIPGQMGAR', 'GLPGVAGSVGEPGPLGISGPAGAR', 'GEAGPSGPTGLAGAVGPR', 'GHNGLQGLPGFAGHHGDQGSPGTVGPAGPR'] :
+Clades that have all the peptides :
+['Balaenoptera_musculus']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLQEASAR', 'SGRPGER', 'GEPGAPGENGIPGQVGAR', 'GEVGLPGVSGPVGPPGNPGVNGLPGAK', 'GEPGAVGPTGPPGPSGEEGK', 'AGVMGLHGSR', 'EGPTGLPGIDGRPGPIGPAGTR', 'GEAGPAGAAGPAGSR', 'GEVGPAGPNGFAGSAGAAGQPGAK', 'GPSGEPGTAGSPGTPGPQGLLGSPGFLGLPGSR', 'GLPGVAGSLGEPGPLGIAGPTGAR', 'GSQGSQGPAGPPGPPGPPGPAGPSGGGYDFGFEGDFYR'] :
+Clades that have all the peptides :
+['Physeter_catodon']
+=========================================================
+For the peptides ['GPPGASGAPGPQGFQGPPGEPGEPGQTGPAGSR', 'GEAGPAGPAGPSGPR', 'DGNPGSDGAPGR', 'GSHGSQGPSGPPGPPGPPGPPGPSGGGYDFGFEGDFYR'] :
+Clades that have all the peptides :
+['Lipotes_vexillifer']
+=========================================================
+For the peptides ['GLPGVAGSVGEPGPLGIAGPAGAR'] :
+Clades that have all the peptides :
+['Monodon_monoceros']
+=========================================================
+For the peptides ['GLPGVAGSMGEPGPLGIAGPAGAR'] :
+Clades that have all the peptides :
+['Delphinapterus_leucas']
+=========================================================
+For the peptides ['GSDGSVGPVGPAGPIGPAGPPGFPGAPGPK', 'TGPPGPAGISGPPGPPGPAGK', 'GPSGEPGTAGPPGTPGPQGLLGLPGFLGLPGSR'] :
+Clades that have all the peptides :
+['Bubalus_bubalis']
+=========================================================
+For the peptides ['GPPGEFGLPGPAGPR'] :
+Clades that have all the peptides :
+['Vulpes_vulpes']
+=========================================================
+For the peptides ['GPPGAVGAPGPQGFQGPAGEPGEPGQTGPAGAR', 'GNDGSVGPVDPAGPIGSAGPPGFPGAPGPK', 'GEVGLPGVSGPVGPPGNPGANGLPGAK', 'GPTGPAGVR', 'IGPPGPSGISGPPGPPGPAGK', 'GPSGEPGTAGPPGTPGPQGILGAPGFLGLPGSR', 'GYPGNPGPAGAAGAPGPQGAVGPAGK', 'HVWLGETINGGTQFEYNMEGVTTK', 'LPILDIAPLDIGDADQEVSVDVGPVCFK'] :
+Clades that have all the peptides :
+['Sus_scrofa']
+=========================================================
+For the peptides ['GIVGEPGPAGSK', 'GLPGADGPAGVMGPPGPR'] :
+Clades that have all the peptides :
+['Canis_lupus_familiaris']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSWR', 'QGSLQK'] :
+Clades that have all the peptides :
+['Lynx_rufus']
+=========================================================
+For the peptides ['GSAGVPGGK', 'GPSGEPGTAGPPGTSGPQGLLGAPGILGLPGSR', 'GHNGLQGLPGLAGQHGDQGAPGSLGPAGPR'] :
+Clades that have all the peptides :
+['Enhydra_lutris_kenyoni']
+=========================================================
+For the peptides ['FLSR', 'LCGACK'] :
+Clades that have all the peptides :
+['Muntiacus_muntjak']
+=========================================================
+For the peptides ['GDVGNPGR', 'IGHPGTVGPAGVR'] :
+Clades that have all the peptides :
+['Ursus_maritimus']
+=========================================================
+For the peptides ['SLSHFFDGK'] :
+Clades that have all the peptides :
+['Muntiacus_reevesi']
+=========================================================
+For the peptides ['TGPPGPAGISGPPGPLGPAGK', 'TGEPGAAGPPGFVGEK', 'GPSGEPGTAGPPGTPGPQGLLGPPGFLGLPGSR', 'GYPGNAGPVGAAGAPGPQGPVGPAGK', 'GEPGPVGAVGPVGAVGPR'] :
+Clades that have all the peptides :
+['Oryx_dammah']
+=========================================================
+For the peptides ['HTWLGETINDGTQFEYNTEGVTTK'] :
+Clades that have all the peptides :
+['Meles_meles']
+=========================================================
+For the peptides ['DGDDGTPGPPGPPGPPGPPGLGGNFAAQYDPGK', 'GSDGSVGPLGPAGPIGSAGPPGFPGAPGPK', 'GVTGPAGVR', 'GEAGTAGAAGPAGPR', 'GPSGEPGTAGPPGTTGPQGLLGSPGILGLPGSR', 'NTIAYMDEETGNLK'] :
+Clades that have all the peptides :
+['Odobenus_rosmarus_divergens']
+=========================================================
+For the peptides ['GEQGPAGPPGFQGLPGPSGTAGEAGKPGER'] :
+Clades that have all the peptides :
+['Callorhinus_ursinus']
+=========================================================
+For the peptides ['DGDDGMPGPPGPPGPPGPPGLGGNFAAQYDPGK'] :
+Clades that have all the peptides :
+['Zalophus_californianus']
+=========================================================
+For the peptides ['GEPGVLGAPGSAGPSGPGGLPGER'] :
+Clades that have all the peptides :
+['Phoca_vitulina']
+=========================================================
+For the peptides ['FTYNVLADGCSK'] :
+Clades that have all the peptides :
+['Lontra_canadensis']
+=========================================================
+For the peptides ['GAMGPAGVR', 'GPSGEPGTAGPPGTPGPQGILGPPGFLGLPGSR', 'HVWVGETINDGTQFEYNVEGVTTK'] :
+Clades that have all the peptides :
+['Odocoileus_virginianus_texanus']
+=========================================================
+For the peptides ['IGAPGPAGAR'] :
+Clades that have all the peptides :
+['Mirounga_angustirostris']
+=========================================================
+For the peptides ['GPGESAAGPSGPIGSR', 'GEPGVLGAPGSTGPSGPGGLPGER'] :
+Clades that have all the peptides :
+['Halichoerus_grypus']
+=========================================================
+For the peptides ['GPPGASGAPGPQGFQGPAGEPGEPGQTGPVGSR', 'GLPGEFGLPGPAGTR', 'GEAGPAGPAGPTGPR'] :
+Clades that have all the peptides :
+['Leptonychotes_weddellii']
+=========================================================
+For the peptides ['DGDDGIPGPPGPPGLPGPPGLGGNFAAQFDGK', 'GEPGSVGAQGPPGPSGEEGK', 'GPNGEAGSTGPAGPPGLR', 'AGVMGLAGSR', 'EGPAGLPGIDGRPGPVGPAGAR', 'GVAGLAGAR', 'GPSGAPGPDGNK', 'GEIGNSGR', 'GPPGAVGAPGPAGANGDR', 'GEIGPVGPTGAVGSAGPSGPNGPPGPAGSR', 'AGETGSSGPPGFAGEK', 'GPPGAVGAPGVNGAPGETGR', 'GYPGNAGPVGAVGAPGSHGPVGPTGK', 'HIWFGETINGGSQFEYNVEGVTTK'] :
+Clades that have all the peptides :
+['Ceratotherium_simum_simum']
+=========================================================
+For the peptides ['GPPGDR', 'DGSDGSPGPAGPPGPPGPPGLGGNFAAQYDGK', 'AGDDGHPGKPGRPGER', 'GYNGLDGLK', 'VGAPGPAGSR', 'GEQGLPGVSGPVGPPGNPGANGLTGAK', 'GESGGK', 'GEPGSAGPQGPPGSSGEEGK', 'GPSGESGSTGPTGPPGLR', 'AGVIGPAGAR', 'GPSGDTGRPGEPGLMGAR', 'GGEK', 'GEQGPAGPPGFQGLPGPAGTTGEAGKPGER', 'GPPGESGAVGPSGAIGSR', 'GEPGVVGAPGTAGPAGSGGLPGER', 'GENGIVGPTGPVGSAGPAGPNGPAGPAGSR', 'TGPPGPSGITGPPGPSGAAGK', 'GDQGPIGR', 'AGETGAGGPPGFTGEK', 'GLPGVAGAVGEPGPLGIQGPPGAR', 'GPSGAVGGPGVNGAPGEAGR', 'GYAGNPGPVGAAGAPGPHGAVGPAGK', 'GEPGPVGSAGPVGAIGPR', 'GEAGDK', 'GSQGSQGPSGPPGPPGPPGPPGASGGGYDFGYEGDFYR', 'AQPESISAK', 'SWYR', 'HVWLGETINGGTQFEYNEEGVTPK', 'TDEWR'] :
+Clades that have all the peptides :
+['Choloepus_didactylus']
+=========================================================
+For the peptides ['GSQGSQGPAGPPGPPGPPGPPGPSGGGYDFGFEGDFYR'] :
+Clades that have all the peptides :
+['Mustela_erminea']
+=========================================================
+For the peptides ['GVGPGPMGLMGPPGPPGAAGVPGPQGLQGPAGEPGEPGQTGPAGSR', 'EGPMGLPGIDGRPGPIGPPGAR', 'GEPGVLGTPGTVGPSGPGGLPGER', 'GETGLQGEVGNPGR', 'TGHHGTVGPAGVR'] :
+Clades that have all the peptides :
+['Neomonachus_schauinslandi']
+=========================================================
+For the peptides ['GPVGDR', 'DGDDGIPGPPGPPGPPGPPGLGGIFAAQYDPGK', 'LPILDIAPLDIGDANQEFR'] :
+Clades that have all the peptides :
+['Mustela_putorius_furo']
+=========================================================
+For the peptides ['AGVMGPSGPR'] :
+Clades that have all the peptides :
+['Leopardus_geoffroyi']
+=========================================================
+For the peptides ['DGEDGPNGPPGPPGPPGPPGLGGHFAAQYDGK', 'NSIAYMDGETGNLDK'] :
+Clades that have all the peptides :
+['Urocitellus_parryii']
+=========================================================
+For the peptides ['GHVGAPGPAGAR', 'GENGVVGPTGPVGAAGPSGPNGPPGPAGGR', 'HIWLAEIINGGSQFEYNVEGVTSK', 'LPFLDIAPLDIGGADQEIGVDVGPVCFK'] :
+Clades that have all the peptides :
+['Marmota_monax']
+=========================================================
+For the peptides ['NGEDGPNGPPGPPGPPGPPGLGGHFAAQYDGK', 'GEAGAAGPAGPPGPR'] :
+Clades that have all the peptides :
+['Ictidomys_tridecemlineatus']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLQDATAR', 'GVSPGPMGLMGPR', 'HGEK'] :
+Clades that have all the peptides :
+['Vicugna_pacos']
+=========================================================
+For the peptides ['GELGAVGNPGPAGPAGAR', 'GIPGPVGSAGASGAR', 'GQNGEAGSTGPTGPPGLR', 'GFPGSPGNVGPTGK', 'GAPGPDGNNGAQGPPGQQGVQGGK', 'GEQGPAGPPGFQGLPGPAGAVGEVGKPGER', 'GPSGPPGPEGNK', 'GEAGAVGAPGAPGAPGPGGLPGER', 'GENGVVGPTGPVGAAGPSGPIGPPGPVGGR', 'GPSGEPGSAGPPGTPGPQGLLGAPGILGLPGSR', 'GLPGISGSMGEPGPLGISGPPGAR', 'GPSGAVGSPGVNGAPGEAGR', 'GYPGNIGPAGAVGAPGPHGNVGPTGK', 'GMPGDK', 'GSQGNQGPAGPPGPPGPPGPPGISGGGYDFGYDGDFYR', 'NGYINSK', 'TNDWSK'] :
+Clades that have all the peptides :
+['Talpa_occidentalis']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLK', 'DGADGIPGLPGPPGPPGPPGLGGNFAAQFDGK', 'GIPGPPGAAGAAGPR', 'GPTGDAGKPGEK', 'GHAGLAGVR', 'GEPGSVGAPGSAGANGPGGLPGER', 'GEMGSTGR', 'GAPGAMGAPGPSGASGDR', 'GENGIVGPTGPVGAAGPSGPNGPPGPAGTR', 'GYPGNAGPVGTVGAPGPHGPVGPTGK', 'GEPGPAGAVGPTGAAGPR', 'NEYR', 'LPFLDIAILDIGGADQEISLDIGPVCFK'] :
+Clades that have all the peptides :
+['Eptesicus_fuscus']
+=========================================================
+For the peptides ['DGDDGTPGPPGPPGPPGPPGLGGNFAAQFDGK', 'GEPGAAGAQGPPGPSGEEGK', 'GSNGEAGPAGPPGPPGLR', 'EGPTGLPGIDGRPGPIGPAGAR', 'GEPGGVGPPGNAGASGPGGLPGER', 'GYPGNPGPVGSLGAPGPHGPVGPTGK', 'HVLFGETINGGTQFEYNVEGVTTK', 'LPILDIALLDIGDADQEFSLDIGPVCFK'] :
+Clades that have all the peptides :
+['Rousettus_aegyptiacus']
+=========================================================
+For the peptides ['TVLLLAVASCLATCQSLQEETAR', 'DGDDGPNGPPGPPGPPGPPGLGGNFAAQFDGK', 'GVMGPQGAR', 'GLVGEPGPAGTK', 'GSPGEPGSAGPAGPPGLR', 'GAPGESGAAGPPGPIGSR', 'TGETGASGPPGFPGEK', 'GYPGNAGPVGAAGAPGPQGSVGPTGK', 'GEPGPAGSIGPVGAAGPR', 'AQPENISVK', 'NWYK', 'HVWLGETINGGTQFEYNVEGVTSK', 'FTYTVLVDGCTK', 'LPFLDIAPLDIGGADQEFYVDVGPVCFK'] :
+Clades that have all the peptides :
+['Oryctolagus_cuniculus']
+=========================================================
+For the peptides ['TLLLLAVISCLATCQSLTEETAR', 'GIPGPPGAAGATGPR', 'GPTGEAGK', 'GPPGESGAVGPSGPSGSR', 'GEPGAVGAPGSAGAPGPGGLPGER', 'GAPGAVGAPGPAGASGDR', 'GEAGAAGPAGPTGPR', 'GPSGEPGAAGPPGTPGPQGLLGAPGILGLPGSR', 'GLPGVYGSTGEPGPLGIAGPPGAR', 'GYPGNAGPVGSAGAPGPHGPVGPAGK', 'GEPGPAGAVGPTGAVGPR', 'NGHPGVVGPAGLR'] :
+Clades that have all the peptides :
+['Miniopterus_natalensis']
+=========================================================
+For the peptides ['GEQGPAGPPGFQGLPGPAGTAGELGKPGER', 'GEPGAIGTPGTAGAPGPGGLPGER'] :
+Clades that have all the peptides :
+['Phyllostomus_discolor']
+=========================================================
+For the peptides ['GEIGAIGNPGIAGPAGPR'] :
+Clades that have all the peptides :
+['Callithrix_jacchus']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLQQETAR', 'GIPGDR', 'DGDK', 'GPSGPPGPPGPPGPPGLGGNFAAQYDGK', 'GQAGAPGVK', 'GSDGSVGPLGPAGPLGSAGPPGFPGAPGPK', 'GEQGLPGVSGPVGPPGNPGANGLTGSK', 'GIPGPVGAVGATGAR', 'GANGEAGSTGPSGPPGLR', 'GPNGDPGRPGEPGLMGPR', 'EGPVGLPGIDGRPGPVGPAGPR', 'GPPGESGAAGPVGSIGSR', 'GEPGVVGAPGTAGPSGSGGLPGER', 'GGAGIPGGK', 'GEAGAAGPAGPSGPR', 'GENGIAGPTGPVGAAGPSGPNGAPGPAGGR', 'TGETGAGGPPGFAGEK', 'GPSGAVGSPGVNGAPGETGR', 'GYAGNAGPVGAAGAPGPHGSVGPAGK', 'GEPGPVGPVGPVGAVGPR', 'GSQGSQGPSGPAGPPGPPGPPGASGGGYDFGYEGDFYR', 'AQTESIPAMNR', 'HVWVGETINGGTQFEYNEEGVTSK', 'LPILDIAPFDIGGADQEIR'] :
+Clades that have all the peptides :
+['Dasypus_novemcinctus']
+=========================================================
+For the peptides ['DGDNGIPGPPGPPGPPGPPGLGGNFAAQYDPGK', 'HTWLGETINGGTQFEYNPEGVTTK', 'QAVVLQGSNDVELVAEGNSR'] :
+Clades that have all the peptides :
+['Neovison_vison']
+=========================================================
+For the peptides ['MEIPR', 'LVLLILR', 'EEGEGK', 'VGEER', 'EEGEEK', 'EEK', 'EEEEEK', 'RRRRRR', 'SLGLGPPGPPGR', 'DGDDGTPGPPGPPGPPGPPGLGGGLMGPR', 'SGETGAGGPPGFTGEK'] :
+Clades that have all the peptides :
+['Pteropus_alecto']
+=========================================================
+For the peptides ['VGAGGPAGAR', 'HGDK'] :
+Clades that have all the peptides :
+['Aotus_nancymaae']
+=========================================================
+For the peptides ['GYPGNIGPVGTVGAPGPHGPVGPTGK', 'AVMLQGSNDVELVAEGNSR'] :
+Clades that have all the peptides :
+['Ailuropoda_melanoleuca']
+=========================================================
+For the peptides ['VGAPGPTGAR', 'GETGPSGPVGPSGAVGPR'] :
+Clades that have all the peptides :
+['Cebus_capucinus_imitator']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLQEGTAR', 'GVGGGPGPMGLMGPR', 'VGER', 'GDQGPAGPPGFQGLPGPAGTAGELGKPGER', 'GEPGAVGAPGTAGAPGPGGLPGER'] :
+Clades that have all the peptides :
+['Phyllostomus_hastatus']
+=========================================================
+For the peptides ['EGPVGLPGIDGRPGPVGPAGAR', 'GLPGVAGSLGEPGPLGISGPPGAR', 'GYPGNLGPVGAVGAPGPHGPVGPTGK', 'IPGK'] :
+Clades that have all the peptides :
+['Manis_javanica']
+=========================================================
+For the peptides ['GEQGPAGPPGFQGLPGPSGPAGEAGKPGER'] :
+Clades that have all the peptides :
+['Trachypithecus_francoisi']
+=========================================================
+For the peptides ['DGDDGTPGPPGPPGPPGPPGLGGNFAAQYDGK'] :
+Clades that have all the peptides :
+['Pteropus_giganteus']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQSLEVTAR', 'DGDNGIPGPPGPPGPPGPPGLGGNFAAQYDGK', 'GELGPVGNPGPSGPAGPR', 'GIPGPPGAAGATGAR', 'GVAGEAGAAGPPGPAGLR', 'EGPVGLPGIDGRPGPTGPAGAR', 'GEAGAVGAPGSPGASGSGGLPGER', 'GEGGAAGPAGPAGPR', 'GGPGER', 'TGETGAGGPPGFVGEK', 'GLPGVSGSLGEPGPLGIAGPPGAR', 'GYPGNAGPVGTVGAPGPQGSVGPTGK', 'GEPGPVGVVGPTGAVGPR', 'AQPENIAAK'] :
+Clades that have all the peptides :
+['Molossus_molossus']
+=========================================================
+For the peptides ['GPPGTPGR', 'DGEDGLPGPPGPPGPPGPPGLGGNFAAQYDSK', 'GIPGPAGAVGATGAR', 'GPTGEPGSAGPAGPPGLR', 'AGVMGPAGNR', 'GPSGPAGVR', 'GPPGAVGAPGPAGATGDR', 'GAPGER', 'GENGGVGATGPAGPAGPSGPNGPPGPAGGR', 'TGPPGPAGITGPPGPPGAAGK', 'GPSGESGTAGPPGTPGPQGLLGAPGILGLPGSR', 'GPQGHQGPAGPPGPPGPPGPPGAGGGGYDFGYDGDFYR', 'VYCDFSTGETCIQAQPENIQVK', 'AVILQGSNDVELVPEGNSR'] :
+Clades that have all the peptides :
+['Lemur_catta']
+=========================================================
+For the peptides ['HVWLGETINAGSQFEYNIEGVTSK'] :
+Clades that have all the peptides :
+['Piliocolobus_tephrosceles']
+=========================================================
+For the peptides ['GEPGVVGAVGTAGPSGPSGLPGER', 'GENGVVGPTGPVGAAGPAGPNGPPGPAGSR', 'TGEVGAVGPPGFTGEK', 'GHNGLQGLPGIAGHHGDQGASGSVGPAGPR'] :
+Clades that have all the peptides :
+['Hylobates_moloch']
+=========================================================
+For the peptides ['DGDDGLPGPAGPPGPPGPPGLGGNFAAQYDGK', 'AAGLGPGPMGLMGPR', 'GPAGAPGK', 'GQAGLPGAK', 'VGAPGPSGAR', 'GSNGEPGSAGPSGPPGLR', 'GGVMGPPGNR', 'GQSGPAGVR', 'EGPAGLPGVDGRPGPVGPAGAR', 'GETGPR', 'GEMGTTGR', 'GENGAVGPAGAVGPAGPSGPNGPPGPAGGR', 'TGPPGPSGMSGPPGPPGPSGK', 'SGETGPSGPPGFAGEK', 'GPSGEAGAAGPPGTPGPQGLLGAPGILGLPGSR', 'GLPGVAGAVGEPGPLGVAGPPGAR', 'GYPGNVGPAGAVGAPGSHGPVGPAGK', 'GEPGAVGPVGPTGAVGPR', 'GPSGAQGVR', 'GHGGLQGLPGIAGHHGDQGAPGSVGPAGPR', 'NGHPGTVGPAGVR', 'GPQGHQGPAGPPGPPGPPGPPGASGGGYDFGYDGDFYR', 'LSHPEWSSGHYWIDPNQGCTMDAIK', 'NSIAYMDEETGSLK'] :
+Clades that have all the peptides :
+['Otolemur_garnettii']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQYLQEATAR', 'DGDDGIPGPAGPPGPPGPPGPPGLGGNFAAQYDGK', 'GPPGASGAPGPPGFQGPAGEPGEPGQTGPAGAR', 'GELGPVGNPGPSGPAGAR', 'GIPGPVGAAGASGAR', 'GEPGSAGAQGLPGPSGEEGK', 'GQNGEAGSAGPAGPPGLR', 'EGPSGLPGIDGRPGPIGPAGAR', 'GAPGPDGNNGAQGPPGAQGVQGGK', 'GPPGQSGAAGPSGPIGSR', 'GPSGSPGPDGNK', 'GENGIVGPTGPVGAAGPSGPNGPPGPAGGR', 'TGETGGSGPPGFTGEK', 'GPAGEPGTAGPPGTAGPQGLLGAPGILGLPGSR', 'GLPGVFGSVGEPGPLGIAGPPGAR', 'GYPGNAGSVGAAGAPGPHGSVGPAGK', 'DGHNGQPGTVGPAGIR', 'GSQGNQGPAGPAGPPGPPGPPGPSGGGYDFGYEGDFYR', 'ADQPRPTSLRPK', 'VYCDFSTGETCIEAQPK', 'IVLPK', 'SGYSSPK', 'HTWVGETINGGTQFEYNTEGVTTK', 'NSIAYMDK', 'NNEWSK', 'LPILDIAPLDIGSADQEFR', 'VEVGPVCYK'] :
+Clades that have all the peptides :
+['Erinaceus_europaeus']
+=========================================================
+For the peptides ['GYPGNLGPVGAAGAPGPHGPVGPTGK', 'ITGK'] :
+Clades that have all the peptides :
+['Manis_pentadactyla']
+=========================================================
+For the peptides ['TLLLLAVTSCLATCQCK', 'CLQLETVR', 'GLPGDFGLPGPAGAR'] :
+Clades that have all the peptides :
+['Mandrillus_leucophaeus']
+=========================================================
